@@ -1,6 +1,6 @@
 {
   "retrieved_on": "2026-10-08",
-  "method": "Public web search and opened Reddit HTML extracts; not manual raw JSON collection",
+  "method": "Public web discovery on October 8; five excerpts rechecked against user-saved HTML on October 9.",
   "quotes": [
     {
       "id": "R1",
@@ -11,9 +11,29 @@
       "use": "Maya persona; Brand Values, Canonical Language, and condition checklist.",
       "limit": "A personal threshold, not a measure of cleanliness or proof of app adoption.",
       "retrieved_on": "2026-10-08",
-      "source_type": "Opened Reddit post or comment, tool-extracted HTML text",
-      "exact_post_date": null,
-      "date_note": "Opened pages show relative ages; no exact posting date is asserted here."
+      "source_type": "Manually saved old.reddit.com HTML",
+      "exact_post_date": "2026-08-15",
+      "date_note": "Exact UTC timestamp from the quoted post/comment time[datetime] in the saved HTML.",
+      "local_capture": "reddit_corpus/raw/thread_01_1vp3cve.html",
+      "source_locator": "t3_1vp3cve > entry > usertext-body > .md",
+      "capture_sha256": "14b6fac6f63cd1c66394d588a27cdd012ca1a3e78edd8c7efaad25c52868b851",
+      "used_in_files": [
+        "../personas/judge-maya.md#voices-that-shaped-this-persona-real-verbatim-with-sources",
+        "../brand_position.md#brand-values",
+        "../brand_position.md#canonical-language",
+        "../brand_position.md#what-the-listing-needs-to-explain"
+      ],
+      "initial_tool_capture": {
+        "local_capture": "reddit_corpus/web/maya/captures/02-opened-thread-batch.txt",
+        "source_locator": "Original post, tool text line L20",
+        "capture_sha256": "ab6cffeccbe629e1bbafcb2422b5180f1b2f62ae0bc872c8a51a9ee5c9ad745e"
+      },
+      "manually_saved_on": "2026-10-09",
+      "quote_checked_on": "2026-10-09",
+      "author_checked": true,
+      "context_checked": true,
+      "html_permalink": "https://old.reddit.com/r/AskNYC/comments/1vp3cve/where_are_all_the_decent_public_restrooms_in_this/",
+      "posted_at_utc": "2026-08-15T13:48:20+00:00"
     },
     {
       "id": "R2",
@@ -24,9 +44,30 @@
       "use": "Maya and Chloe personas; Target Identity, Canonical Language, and the map-versus-evidence objection.",
       "limit": "Does not prove another map lacks all condition data or that users will contribute reports.",
       "retrieved_on": "2026-10-08",
-      "source_type": "Opened Reddit post or comment, tool-extracted HTML text",
-      "exact_post_date": null,
-      "date_note": "Opened pages show relative ages; no exact posting date is asserted here."
+      "source_type": "Manually saved old.reddit.com HTML",
+      "exact_post_date": "2025-10-01",
+      "date_note": "Exact UTC timestamp from the quoted post/comment time[datetime] in the saved HTML.",
+      "local_capture": "reddit_corpus/raw/thread_02_1nv77hi.html",
+      "source_locator": "t3_1nv77hi > entry > usertext-body > .md",
+      "capture_sha256": "99d090cd67b2aca36b218afc8fc5baee2ff558c53751e34d1300049f4645bbfe",
+      "used_in_files": [
+        "../personas/judge-maya.md#voices-that-shaped-this-persona-real-verbatim-with-sources",
+        "../personas/judge-chloe.md#voices-that-shaped-this-persona-real-verbatim-with-sources",
+        "../brand_position.md#target-identity",
+        "../brand_position.md#canonical-language",
+        "../brand_position.md#objection-handling"
+      ],
+      "initial_tool_capture": {
+        "local_capture": "reddit_corpus/web/maya/captures/05-opened-single-thread.txt",
+        "source_locator": "Original post edit, tool text line L19",
+        "capture_sha256": "64a823916b4c1765c4c94fbf6c30a284e21c870903559468f5693fceed1bf07a"
+      },
+      "manually_saved_on": "2026-10-09",
+      "quote_checked_on": "2026-10-09",
+      "author_checked": true,
+      "context_checked": true,
+      "html_permalink": "https://old.reddit.com/r/AskNYC/comments/1nv77hi/ok_weird_question_but_what_are_some_nice_and/",
+      "posted_at_utc": "2025-10-01T12:45:19+00:00"
     },
     {
       "id": "R3",
@@ -37,9 +78,28 @@
       "use": "Chloe persona; source and observation-time rules; objection handling.",
       "limit": "Historical conflicting advice, not a statement of current Starbucks policy or refusal frequency.",
       "retrieved_on": "2026-10-08",
-      "source_type": "Opened Reddit post or comment, tool-extracted HTML text",
-      "exact_post_date": null,
-      "date_note": "Opened pages show relative ages; no exact posting date is asserted here."
+      "source_type": "Manually saved old.reddit.com HTML",
+      "exact_post_date": "2024-01-09",
+      "date_note": "Exact UTC timestamp from the quoted post/comment time[datetime] in the saved HTML.",
+      "local_capture": "reddit_corpus/raw/quote_R3_192gaah_kh25iyx.html",
+      "source_locator": "t1_kh25iyx > entry > usertext-body > .md",
+      "capture_sha256": "f7cb6e866fa38ce9cb493096314f82899940747fa441df51af77c7cf018de812",
+      "used_in_files": [
+        "../personas/judge-chloe.md#voices-that-shaped-this-persona-real-verbatim-with-sources",
+        "../brand_position.md#what-the-listing-needs-to-explain",
+        "../brand_position.md#objection-handling"
+      ],
+      "initial_tool_capture": {
+        "local_capture": "reddit_corpus/web/chloe/CH02_192gaah.json",
+        "source_locator": "Original-page capture, tool text line L188; direct-comment capture is also retained in this file",
+        "capture_sha256": "6c23e64654c7fae854084c6a8af856d5b9231f363465b0fcb9eb4d115a90b71c"
+      },
+      "manually_saved_on": "2026-10-09",
+      "quote_checked_on": "2026-10-09",
+      "author_checked": true,
+      "context_checked": true,
+      "html_permalink": "https://old.reddit.com/r/AskNYC/comments/192gaah/is_there_an_app_that_shows_where_to_go_when_you/kh25iyx/",
+      "posted_at_utc": "2024-01-09T15:10:14+00:00"
     },
     {
       "id": "R4",
@@ -50,9 +110,27 @@
       "use": "Alex persona; entry-rule emphasis and distinction between a building being open and restroom permission.",
       "limit": "A luggage and permission account. It does not describe stairs or prove a universal hotel rule.",
       "retrieved_on": "2026-10-08",
-      "source_type": "Opened Reddit post or comment, tool-extracted HTML text",
-      "exact_post_date": null,
-      "date_note": "Opened pages show relative ages; no exact posting date is asserted here."
+      "source_type": "Manually saved old.reddit.com HTML",
+      "exact_post_date": "2021-12-13",
+      "date_note": "Exact UTC timestamp from the quoted post/comment time[datetime] in the saved HTML.",
+      "local_capture": "reddit_corpus/raw/quote_R4_reusvf_hoczy9n.html",
+      "source_locator": "t1_hoczy9n > entry > usertext-body > .md",
+      "capture_sha256": "97b5db6d0731ab8a74af61c23a2c4f775d3031e424e73923ef2675685f610466",
+      "used_in_files": [
+        "../personas/judge-alex.md#voices-that-shaped-this-persona-real-verbatim-with-sources",
+        "../brand_position.md#what-the-listing-needs-to-explain"
+      ],
+      "initial_tool_capture": {
+        "local_capture": "reddit_corpus/web/alex/01-lifehack-suitcase-comment.txt",
+        "source_locator": "Comment author at L63; suitcase context at L67; selected sentence at L69",
+        "capture_sha256": "fcd7a5b0e4ee534b0269cbe6e63510abc8af0601d92fed0defa377b6226b4031"
+      },
+      "manually_saved_on": "2026-10-09",
+      "quote_checked_on": "2026-10-09",
+      "author_checked": true,
+      "context_checked": true,
+      "html_permalink": "https://old.reddit.com/r/AskNYC/comments/reusvf/whats_a_nyc_lifehack_that_seemed_good_at_the_time/hoczy9n/",
+      "posted_at_utc": "2021-12-13T09:24:01+00:00"
     },
     {
       "id": "R5",
@@ -63,9 +141,29 @@
       "use": "Alex persona; product definition and route-inside emphasis.",
       "limit": "A commenter’s general observation, not an inspected venue list, prevalence estimate, or wheelchair usability assessment.",
       "retrieved_on": "2026-10-08",
-      "source_type": "Opened Reddit post or comment, tool-extracted HTML text",
-      "exact_post_date": null,
-      "date_note": "Opened pages show relative ages; no exact posting date is asserted here."
+      "source_type": "Manually saved old.reddit.com HTML",
+      "exact_post_date": "2023-06-27",
+      "date_note": "Exact UTC timestamp from the quoted post/comment time[datetime] in the saved HTML.",
+      "local_capture": "reddit_corpus/raw/quote_R5_14jqol3_jpqyn9d.html",
+      "source_locator": "t1_jpqyn9d > entry > usertext-body > .md",
+      "capture_sha256": "c20700fcb4ecdac912754e9dd34b27a23ca6c1a8866ba9f9c84fa90ce46a9b9d",
+      "used_in_files": [
+        "../personas/judge-alex.md#voices-that-shaped-this-persona-real-verbatim-with-sources",
+        "../brand_position.md#what-the-listing-needs-to-explain"
+      ],
+      "initial_tool_capture": {
+        "local_capture": "reddit_corpus/web/alex/07-accessible-city-stairs.txt",
+        "source_locator": "Comment author at L881; selected sentence at L887",
+        "capture_sha256": "51a3290d69dbdfccac1783e4d706b343d4b7347b08813409cf363cc7d21a234a"
+      },
+      "manually_saved_on": "2026-10-09",
+      "quote_checked_on": "2026-10-09",
+      "author_checked": true,
+      "context_checked": true,
+      "html_permalink": "https://old.reddit.com/r/AskNYC/comments/14jqol3/do_you_think_nyc_is_an_accessible_city/jpqyn9d/",
+      "posted_at_utc": "2023-06-27T17:48:32+00:00"
     }
-  ]
+  ],
+  "quote_check_on": "2026-10-09",
+  "manual_html_verification_complete": true
 }

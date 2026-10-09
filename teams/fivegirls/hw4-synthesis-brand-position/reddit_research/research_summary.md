@@ -1,14 +1,16 @@
 # Reddit Research Summary
 
-**Team:** Five Girls  
-**Date:** October 8, 2026  
+**Team:** Five Girls
+
+**Research dates:** October 8–9, 2026
+
 **Question:** What do people need to know before choosing a restroom in NYC?
 
 ## What we read
 
 Three research tracks covered conditions, recommendation credibility, and route/entry details. We opened 20 distinct threads from r/AskNYC and r/nyc and checked five selected excerpts against the visible original posts or comments. The [thread list](thread_list.md) records the scope, and [selected quotes](selected_quotes.md) records exact wording, source, context, and use.
 
-This online research used public web search and tool-extracted HTML. It is not the guide’s student-performed, logged-in raw JSON collection. The separate [manual checklist](manual_collection.md) makes that remaining step explicit. Search dates and relative page ages are not presented as verified exact posting dates.
+We first found relevant discussions through public web search. On October 9, the team manually saved HTML from a logged-in Reddit browser. The collection contains 34 usable files: 11 search pages, 20 discussion threads, and three quoted-comment pages. One additional search was empty and is excluded. All five selected excerpts, authors, and surrounding context were checked against those saves. The [collection record](manual_collection.md) and [manifest](collection_manifest.json) show the files and counts. Exact post/comment timestamps are recorded in [quote provenance](quote_sources.json). C03 and A03 are excluded from the interview evidence used here because the supplied review records identified them as simulated material.
 
 ## Main patterns
 

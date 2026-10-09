@@ -1,72 +1,74 @@
 # HW4 Synthesis comparison — Five Girls
 
-We reviewed ten interview records about restroom use around NYC: five for Find Cleaner Restrooms (C01–C05) and five for Find Accessible Restrooms (A01–A05). Each record includes raw notes and a snapshot. We compared recurring problems, the consequences of recent experiences, existing workarounds, and reactions to the two concepts.
+The source set contains ten interview records about restroom use around NYC: C01–C05 for cleanliness and A01–A05 for accessibility. Snapshots summarize the same records; they are not additional interviews. Our current findings use eight records: C01, C02, C04, C05, A01, A02, A04, and A05. C03 and A03 are excluded following the [earlier source-provenance review](personas/review_history/brand_position_before_research.md). Part B preserves the original AI output, which used all ten records.
 
-## Part A — Team synthesis
+## Part A — Synthesis for team review
 
 ### Key patterns across interviews
 
-Finding a restroom was often only the first step. C02 and C03 found one but left because it was dirty. A01 encountered a step, a narrow doorway, and an employees-only restroom at different places. A03 reached a café with a level entrance, then found that the restroom was downstairs and the lift required a manager who was unavailable. Those details belong in the listing, so people can check the entry rules and route before going. ([A01](../hw3-interviews/raw_notes/A01.md), [A03](../hw3-interviews/raw_notes/A03.md))
+Finding a restroom was often only the first step. C02 found one but left because it was dirty. C05 inspected portable toilets and decided to wait. A01 encountered a step, a narrow doorway, and an employees-only policy at different places. A02 left a downstairs restroom because she had a suitcase, while A04 used a restroom despite its narrow stairs. Entry rules, condition, and the route inside a building need separate details. ([C02](../hw3-interviews/raw_notes/C02.md), [C05](../hw3-interviews/raw_notes/C05.md), [A01](../hw3-interviews/raw_notes/A01.md), [A02](../hw3-interviews/raw_notes/A02.md), [A04](../hw3-interviews/raw_notes/A04.md))
 
-People mostly rely on places they already know. C03 rarely has trouble on campus, and A04 knows reliable options around Columbia. A01 has three trusted places in Manhattan. C04 searches RedNote for recommendations. These habits help on familiar routes but are less useful in a new neighborhood. That is where we think the map would be most useful. ([C03](../hw3-interviews/raw_notes/C03.md), [C04](../hw3-interviews/raw_notes/C04.md))
+People often rely on places they already know. C02 remembers familiar chains and stores. A04 knows reliable options around Columbia, and A01 has three trusted places in Manhattan. C04 searches RedNote for recommendations. These routines help on familiar routes. We would test whether restroom-specific information helps people choose when they are somewhere unfamiliar. ([C02](../hw3-interviews/raw_notes/C02.md), [A04](../hw3-interviews/raw_notes/A04.md), [A01](../hw3-interviews/raw_notes/A01.md), [C04](../hw3-interviews/raw_notes/C04.md))
 
-The details people wanted were specific: soap, toilet paper, a usable stall, the restroom floor, stairs, and photos. C03 asked for checkboxes instead of a cleanliness score. A01 wanted photos of the actual bathroom. Several participants also wanted to know when the information was checked. A clean bathroom in the morning might be dirty by evening, and a listed elevator might be broken.
+The details people wanted depended on what they needed to do. C02 cared about whether a restroom was usable, rather than spotless. C05 needed a handwashing option. A01 wanted photos of the actual bathroom and more credible verification. A02 and A04 wanted the restroom floor and route; A05 needed a clean sink with space for her belongings. Several also wanted recent information. A photo can show a doorway or sink layout, but it cannot show whether the restroom is clean today. ([C02](../hw3-interviews/raw_notes/C02.md), [C05](../hw3-interviews/raw_notes/C05.md), [A01](../hw3-interviews/raw_notes/A01.md), [A02](../hw3-interviews/raw_notes/A02.md), [A04](../hw3-interviews/raw_notes/A04.md), [A05](../hw3-interviews/raw_notes/A05.md))
 
-The strongest examples involved changes to people's plans. C02 and C03 left restrooms and ended up about ten minutes late. C05 stopped playing tennis early. A01 spent about 35 minutes finding a usable restroom and said he sometimes cuts outings short or avoids plans. His experience stood out because the cost went beyond an inconvenient walk. ([C02](../hw3-interviews/raw_notes/C02.md), [C05](../hw3-interviews/raw_notes/C05.md))
+The clearest examples involved changes to people's plans. C02 arrived about ten minutes late after searching again. C05 stopped playing tennis early. A02 estimated a ten-to-fifteen-minute delay and called it annoying rather than a disaster. A01 spent about 35 minutes finding a usable restroom and described shortening outings or declining plans. His account carried the largest recurring consequences among the retained accessibility records. ([C02](../hw3-interviews/raw_notes/C02.md), [C05](../hw3-interviews/raw_notes/C05.md), [A02](../hw3-interviews/raw_notes/A02.md), [A01](../hw3-interviews/raw_notes/A01.md))
 
 ### Our top five quotes
 
-1. **C01**
+1. **C01 — entry restrictions mattered more than dirtiness.**
 
    > The dirty ones don't stop me. The locked ones do.
 
    [Raw notes, Q6, 12:39 PM](../hw3-interviews/raw_notes/C01.md)
 
-2. **C03**
+2. **C02 — the alternative she used did not need to be spotless.**
 
-   > I’d rather see checkboxes like soap, toilet paper, dry floor, stall open. A number like 3.8 clean doesn’t tell me what’s wrong.
+   > That bathroom was okay. Not amazing, but at least I felt comfortable using it.
 
-   [Raw notes, Q11, 9:22 AM](../hw3-interviews/raw_notes/C03.md)
+   [Raw notes, Q5, 4:18 PM](../hw3-interviews/raw_notes/C02.md)
 
-3. **C05**
+3. **C05 — checking conditions in person costs time.**
 
    > I wish I could have known in advance which restroom was cleaner instead of having to discover it myself by walking
 
    [Raw notes, Q14](../hw3-interviews/raw_notes/C05.md)
 
-4. **A01**
+4. **A01 — the consequences went beyond an inconvenient walk.**
 
    > It's not the bathroom, it's the feeling of being a problem everyone has to deal with.
 
    [Raw notes, Q6, 6:20 PM](../hw3-interviews/raw_notes/A01.md)
 
-5. **A03**
+5. **A02 — a business listing leaves out the route inside.**
 
-   > The door and the entrance were accessible. The route to the bathroom wasn’t independently accessible at that moment. That difference disappears online.
+   > Google Maps tells you if the place exists and when it closes, but it doesn’t really tell you what happens after you walk inside.
 
-   [Raw notes, Q5 follow-up, 10:19 AM](../hw3-interviews/raw_notes/A03.md)
+   [Raw notes, Q8 follow-up, 6:18 PM](../hw3-interviews/raw_notes/A02.md)
 
 ### Contradictions and what they might mean
 
-Cleanliness changed the choices of C02, C03, and C05, but C01 tolerated dirty restrooms and carried a bathroom kit. She cared more about locked doors and keeping her camera gear with her. Different routines and tolerance levels may explain this. We cannot assume that everyone who encounters dirty restrooms wants cleanliness ratings. ([C01](../hw3-interviews/raw_notes/C01.md))
+Cleanliness changed the choices of C02 and C05, but C01 tolerated dirty restrooms and carried a bathroom kit. She cared more about locked doors and keeping her camera gear with her. Different routines, urgency, and tolerance may explain this. Frequent restroom use does not automatically mean someone wants cleanliness ratings. ([C01](../hw3-interviews/raw_notes/C01.md), [C02](../hw3-interviews/raw_notes/C02.md), [C05](../hw3-interviews/raw_notes/C05.md))
 
-The accessibility needs also varied. A01 uses a wheelchair, and A03 avoids stairs when her knee hurts. A02 left a downstairs restroom because she had a suitcase. A04 found the stairs inconvenient with a large bag but still used the restroom. A05 needed sink space rather than a different route. These people might use some of the same information for different reasons. ([A02](../hw3-interviews/raw_notes/A02.md), [A04](../hw3-interviews/raw_notes/A04.md), [A05](../hw3-interviews/raw_notes/A05.md))
+Route needs also varied. A01 uses a wheelchair. A02 avoided stairs because she had a suitcase, while A04 found them inconvenient with a large bag but still used the restroom. A05 needed sink space rather than a different route. Some listing details could help several people, but these accounts do not establish one shared accessibility requirement. ([A01](../hw3-interviews/raw_notes/A01.md), [A02](../hw3-interviews/raw_notes/A02.md), [A04](../hw3-interviews/raw_notes/A04.md), [A05](../hw3-interviews/raw_notes/A05.md))
 
-People wanted fresh reports, but several had never posted restroom information. C02 and C03 did not want to write full reviews. A01 and A03 had contributed to Google before, but we still need to see whether people would keep our map updated. We would need to test whether a quick reporting flow gets more people to contribute.
+C02 and C05 wanted fresh reports but had not posted restroom information themselves. C02 specifically resisted writing a full review. A01 had left two Google reviews about inaccessible restrooms. We still need to test whether a short reporting flow brings in enough updates to make the map useful. ([C02](../hw3-interviews/raw_notes/C02.md), [C05](../hw3-interviews/raw_notes/C05.md), [A01](../hw3-interviews/raw_notes/A01.md))
 
 ### Surprises: what changed our thinking
 
-A05's Invisalign routine was unexpected. She needed a clean, spacious sink where she could brush her teeth and put down her belongings. That showed us that useful restroom details extend beyond entrances and stalls. C01 also challenged our assumption: she spends long days outdoors but showed little interest in cleanliness ratings. ([A05](../hw3-interviews/raw_notes/A05.md), [C01](../hw3-interviews/raw_notes/C01.md))
+A05's Invisalign routine broadened the details we would include. She needed a clean, spacious sink where she could brush her teeth and put down her belongings. That need would be missed by a listing focused only on entrances and stalls. C01 also challenged the cleanliness concept: she spends long days outdoors but showed little interest in cleanliness ratings. ([A05](../hw3-interviews/raw_notes/A05.md), [C01](../hw3-interviews/raw_notes/C01.md))
 
-C05 described her experience calmly but still ended tennis early. We should weigh what people changed about their day alongside how strongly they expressed their frustration. Spending needs the same care. Buying coffee or water for restroom access does not mean someone would pay for our map. A01 said he might pay for reliable information, but that is still a statement about what he would do.
+C05 described her experience calmly but still ended tennis early. We should consider what people changed about their day alongside how strongly they expressed frustration. Spending needs the same care. Buying coffee or water for restroom access does not show that someone would pay for our map. A01's willingness to pay for reliable information is a stated intention, not a purchase. ([C05](../hw3-interviews/raw_notes/C05.md), [A01](../hw3-interviews/raw_notes/A01.md))
 
 ### Our overall read on the data
 
-We see a moderate signal for cleanliness: three participants changed their behavior, while C01 was less interested and C04's account gave us less detail. Accessibility is mixed overall, but A01 and A03 described recurring problems with larger consequences. We would start by testing detailed route information with people who have similar needs, especially when they visit unfamiliar neighborhoods.
+Among the four retained cleanliness records, C02 and C05 described changing their behavior, C01 was less interested in cleanliness ratings, and C04's summary gave us less detail. The accessibility records also show different levels of need. A01 described recurring barriers with larger consequences; A02 and A04 had situational route concerns, and A05 had a sink-specific task. We would test detailed route information with more people who regularly depend on particular access features before treating A01's experience as representative of that audience.
 
-The map could help people avoid a failed trip, but it cannot make staff available to operate a lift or create a usable restroom where none exists. We need to test whether the information changes a real choice and whether we can keep it accurate. These ten interviews give us a starting point. Positive reactions and offers to review a prototype are encouraging, but the notes do not show actual use of our product.
+The map could help someone avoid a failed trip, but information cannot create a usable restroom or change an entry policy. We need to test whether the details change a real choice and whether reports stay useful over time. These eight retained records give us hypotheses, not a citywide demand estimate. C04 lacks exact participant quotes and several outcome details; A05's search time and recent outcome are unquantified. Positive reactions and offers to review a prototype remain separate from actual use of our product.
 
 ## Part B — AI synthesis
+
+**Review note:** The full original AI output below is preserved unchanged. It used all ten records, including C03 and A03. Findings and quotations from those two records are excluded from our current customer conclusions.
 
 ### Reading and evidence boundaries
 
@@ -173,6 +175,6 @@ Follow-up and referral statements are commitments as recorded at interview time.
 
 ## Part C — Comparison
 
-The AI was more specific about how different information should be checked. We focused on recent updates, while it pointed out that a photo of a doorway and a report about a broken elevator serve different purposes. It also split the interviews into six possible user groups. Our main emphasis was on the costs people had already experienced, including A01's frustration about feeling like a problem for others. We would test route information first with people who depend on it; the AI described the stronger evidence from A01 and A03 without choosing a starting audience.
+The original AI output was more specific about the different evidence a listing needs: photos and measurements for physical features, and recent reports for changing conditions. It also divided the interviews into six possible groups. Our revised synthesis puts more weight on what people actually changed about their day, especially A01's restricted plans and C05's tennis session ending early. The retained records support testing route information, but A01 is the only retained account of regular wheelchair dependence. We need more interviews before treating that experience as a whole audience.
 
-Checking the notes helped us catch three places where the AI went too far. A03 could have taken the stairs but chose not to risk them because her knee hurt. A02 described remembered places in familiar neighborhoods, not specifically on campus. C03 had already bought tea before checking the restroom; she did not say the purchase was required for access. ([A03](../hw3-interviews/raw_notes/A03.md), [A02](../hw3-interviews/raw_notes/A02.md), [C03](../hw3-interviews/raw_notes/C03.md)) All five AI-selected quotes matched the notes exactly. The AI helped organize the findings, but these details showed why we still needed to check its interpretation against the original accounts.
+All five AI-selected quotations match the raw-note text exactly. Two come from C03 and A03, which the source-provenance review excludes from customer evidence; accurate copying does not resolve that source issue. Part B therefore remains as the original output for comparison, while current conclusions use the eight retained records. Removing C03 and A03 reduces the examples of cleanliness-related behavior change to C02 and C05 and leaves less evidence about recurring route dependence. We also checked that A02's remembered places were in familiar neighborhoods, rather than specifically on campus, and that her broken-elevator experience concerned subway stations, not a restroom. The AI helped organize the records, but source eligibility and the context of each account still change what we can conclude. ([A02](../hw3-interviews/raw_notes/A02.md), [source-provenance review](personas/review_history/brand_position_before_research.md))

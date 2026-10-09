@@ -1,8 +1,8 @@
 {
   "retrieved_on": "2026-10-08",
   "unique_threads": 20,
-  "method": "Tool-opened Reddit pages",
-  "manual_collection_complete": false,
+  "method": "Public web discovery, followed by manually saved old.reddit.com HTML and source verification",
+  "manual_collection_complete": true,
   "threads": [
     {
       "thread_id": "1vp3cve",
@@ -12,7 +12,15 @@
       "researchers": [
         "Maya",
         "Alex"
-      ]
+      ],
+      "manual_save_filename": "thread_01_1vp3cve.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/AskNYC/comments/1vp3cve/where_are_all_the_decent_public_restrooms_in_this/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_01_1vp3cve.html",
+      "original_browser_file": "reddit_corpus/browser/Where are all the decent public restrooms in this city? : AskNYC.html",
+      "source_title": "Where are all the decent public restrooms in this city? : AskNYC",
+      "capture_sha256": "14b6fac6f63cd1c66394d588a27cdd012ca1a3e78edd8c7efaad25c52868b851"
     },
     {
       "thread_id": "1nv77hi",
@@ -22,7 +30,15 @@
       "researchers": [
         "Maya",
         "Chloe"
-      ]
+      ],
+      "manual_save_filename": "thread_02_1nv77hi.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/AskNYC/comments/1nv77hi/ok_weird_question_but_what_are_some_nice_and/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_02_1nv77hi.html",
+      "original_browser_file": "reddit_corpus/browser/Ok, weird question, but what are some nice and clean bathrooms or what are some businesses where I c.html",
+      "source_title": "Ok, weird question, but what are some nice and clean bathrooms or what are some businesses where I can purchase something or get some food grab and go that have a bathroom for customer use - around the perimeter of Manhattan? : AskNYC",
+      "capture_sha256": "99d090cd67b2aca36b218afc8fc5baee2ff558c53751e34d1300049f4645bbfe"
     },
     {
       "thread_id": "wxq7nl",
@@ -31,7 +47,15 @@
       "focus": "Negative emotional reaction after a restroom visit and request for relatively clean alternatives.",
       "researchers": [
         "Maya"
-      ]
+      ],
+      "manual_save_filename": "thread_03_wxq7nl.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/AskNYC/comments/wxq7nl/wheres_the_cleanest_relative_public_restroom_in/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_03_wxq7nl.html",
+      "original_browser_file": "reddit_corpus/browser/Where’s the cleanest (relative) public restroom in Manhattan? : AskNYC.html",
+      "source_title": "Where’s the cleanest (relative) public restroom in Manhattan? : AskNYC",
+      "capture_sha256": "daa5e855687b3cda0cb108af3db2fef064591ffd228fa7292c5a6445b57e9545"
     },
     {
       "thread_id": "1urbs88",
@@ -40,7 +64,15 @@
       "focus": "Cleanliness and sink/toilet quality appear alongside decor and amenities; comments offer specific known venues.",
       "researchers": [
         "Maya"
-      ]
+      ],
+      "manual_save_filename": "thread_04_1urbs88.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/AskNYC/comments/1urbs88/nicest_public_bathroom/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_04_1urbs88.html",
+      "original_browser_file": "reddit_corpus/browser/Nicest public bathroom : AskNYC.html",
+      "source_title": "Nicest public bathroom : AskNYC",
+      "capture_sha256": "82ce49a3ce1ee90bf61317872f75c0e580f7eb1204d1994fdc6cd00d1c6560b8"
     },
     {
       "thread_id": "1tc14ro",
@@ -51,7 +83,15 @@
         "Maya",
         "Chloe",
         "Alex"
-      ]
+      ],
+      "manual_save_filename": "thread_05_1tc14ro.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/AskNYC/comments/1tc14ro/public_bathrooms_in_nyc/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_05_1tc14ro.html",
+      "original_browser_file": "reddit_corpus/browser/Public bathrooms in NYC : AskNYC.html",
+      "source_title": "Public bathrooms in NYC : AskNYC",
+      "capture_sha256": "99f97bbc22165f1d70de3d376a59c0e5d60caf4a574ff8f14e9cee622a7017d9"
     },
     {
       "thread_id": "14a7o4u",
@@ -62,7 +102,15 @@
         "Maya",
         "Chloe",
         "Alex"
-      ]
+      ],
+      "manual_save_filename": "thread_06_14a7o4u.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/AskNYC/comments/14a7o4u/where_is_your_goto_bathroom_spot_in_busy_manhattan/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_06_14a7o4u.html",
+      "original_browser_file": "reddit_corpus/browser/Where is your go-to bathroom spot in busy Manhattan : AskNYC.html",
+      "source_title": "Where is your go-to bathroom spot in busy Manhattan : AskNYC",
+      "capture_sha256": "98b5fc3c14742efd1d65f8e7e1c590011849bbed54d76e05e6e16a52c6ed1895"
     },
     {
       "thread_id": "kf8fwk",
@@ -71,7 +119,15 @@
       "focus": "Planning and a small list of known fallback locations; direct OP comment says cleanliness is not the priority, providing a counterexample.",
       "researchers": [
         "Maya"
-      ]
+      ],
+      "manual_save_filename": "thread_07_kf8fwk.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/AskNYC/comments/kf8fwk/places_in_nyc_with_reliable_bathrooms/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_07_kf8fwk.html",
+      "original_browser_file": "reddit_corpus/browser/Places in NYC with reliable bathrooms? : AskNYC.html",
+      "source_title": "Places in NYC with reliable bathrooms? : AskNYC",
+      "capture_sha256": "f88c1aa8092872314401583d9022f11229ad0a2b79b71f7aa8c306cf18c6d606"
     },
     {
       "thread_id": "102s6md",
@@ -80,7 +136,15 @@
       "focus": "Visitor discovers facilities out of service; Got2Go/Flush suggestions and link-loading trouble; commenters disagree about ease of access.",
       "researchers": [
         "Maya"
-      ]
+      ],
+      "manual_save_filename": "thread_08_102s6md.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/AskNYC/comments/102s6md/how_do_people_find_public_restrooms_in_nyc/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_08_102s6md.html",
+      "original_browser_file": "reddit_corpus/browser/How do people find public restrooms in NYC? : AskNYC.html",
+      "source_title": "How do people find public restrooms in NYC? : AskNYC",
+      "capture_sha256": "345a33decf2f4c61ac400c100417d5922ba5b74b5b2d2889198a91b6a9bc8874"
     },
     {
       "thread_id": "1f9stab",
@@ -89,72 +153,136 @@
       "focus": "Discussion of missing supplies/locks, condition, and maintenance. The OP quotes a news report rather than personal firsthand experience.",
       "researchers": [
         "Maya"
-      ]
+      ],
+      "manual_save_filename": "thread_09_1f9stab.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/nyc/comments/1f9stab/investigation_of_nyc_park_bathrooms_finds/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_09_1f9stab.html",
+      "original_browser_file": "reddit_corpus/browser/Investigation of NYC park bathrooms finds alarming rate of litter, missing locks and unsanitary cond.html",
+      "source_title": "Investigation of NYC park bathrooms finds alarming rate of litter, missing locks and unsanitary conditions : nyc",
+      "capture_sha256": "9ba90ac56b848cc43a719ebf836c2e0a99e691ec489be4c73cab1aa2da158334"
     },
     {
       "thread_id": "192gaah",
-      "title": "Is there an app that shows where to go when you got to go? : r/AskNYC (https://www.reddit.com/r/AskNYC/comments/192gaah/is_there_an_app_that_shows_where_to_go_when_you/)",
+      "title": "Is there an app that shows where to go when you got to go?",
       "url": "https://www.reddit.com/r/AskNYC/comments/192gaah/",
       "focus": "Conflicting Starbucks fallback advice and an explicit objection that recommendations are outdated.",
       "researchers": [
         "Chloe"
-      ]
+      ],
+      "manual_save_filename": "thread_10_192gaah.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/AskNYC/comments/192gaah/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_10_192gaah.html",
+      "original_browser_file": "reddit_corpus/browser/Is there an app that shows where to go when you got to go? : AskNYC.html",
+      "source_title": "Is there an app that shows where to go when you got to go? : AskNYC",
+      "capture_sha256": "da3b573adce381a56dc2ee348321ce2849c5ffe6a040802bd3e75123fa488b6a"
     },
     {
       "thread_id": "1d82vmv",
-      "title": "A new Google Maps layer shows public restrooms in NYC : r/nyc (https://www.reddit.com/r/nyc/comments/1d82vmv)",
+      "title": "A new Google Maps layer shows public restrooms in NYC",
       "url": "https://www.reddit.com/r/nyc/comments/1d82vmv/",
       "focus": "Location search does not answer working stall-lock condition; contributors also ask about purchase requirements and map usability.",
       "researchers": [
         "Chloe"
-      ]
+      ],
+      "manual_save_filename": "thread_11_1d82vmv.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/nyc/comments/1d82vmv/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_11_1d82vmv.html",
+      "original_browser_file": "reddit_corpus/browser/A new Google Maps layer shows public restrooms in NYC : nyc.html",
+      "source_title": "A new Google Maps layer shows public restrooms in NYC : nyc",
+      "capture_sha256": "014f60e508d45544235c1068be2a73f3977b0cb9be3b22f2865b6bd2b5d7a61d"
     },
     {
       "thread_id": "1stifh0",
-      "title": "Is Got2Go still going? : r/AskNYC (https://www.reddit.com/r/AskNYC/comments/1stifh0/is_got2go_still_going/)",
+      "title": "Is Got2Go still going?",
       "url": "https://www.reddit.com/r/AskNYC/comments/1stifh0/",
       "focus": "Hit-or-miss availability, backup lists, changing access claims, and map loading friction.",
       "researchers": [
         "Chloe"
-      ]
+      ],
+      "manual_save_filename": "thread_12_1stifh0.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/AskNYC/comments/1stifh0/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_12_1stifh0.html",
+      "original_browser_file": "reddit_corpus/browser/Is Got2Go still going? : AskNYC.html",
+      "source_title": "Is Got2Go still going? : AskNYC",
+      "capture_sha256": "855488cf5f7f5d1e40d954590dac3e79780b8a29d3e4248f22fab40c78f2cc76"
     },
     {
       "thread_id": "1gdxitl",
-      "title": "Finding public restrooms in NYC : r/AskNYC (https://www.reddit.com/r/AskNYC/comments/1gdxitl/finding_public_restrooms_in_nyc/)",
+      "title": "Finding public restrooms in NYC",
       "url": "https://www.reddit.com/r/AskNYC/comments/1gdxitl/",
       "focus": "Conflicting user views about restroom apps and the detail or accuracy they supply. Do not adopt unsupported allegations about a creator's motives.",
       "researchers": [
         "Chloe",
         "Alex"
-      ]
+      ],
+      "manual_save_filename": "thread_13_1gdxitl.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/AskNYC/comments/1gdxitl/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_13_1gdxitl.html",
+      "original_browser_file": "reddit_corpus/browser/Finding public restrooms in NYC : AskNYC.html",
+      "source_title": "Finding public restrooms in NYC : AskNYC",
+      "capture_sha256": "8c3c15a3435cf2cdeb1e7b8f80fb05e4722961125350405c66c3361393a258cc"
     },
     {
       "thread_id": "18cdkg1",
-      "title": "Crowd-sourced map of restrooms (with door codes) in NYC : r/nyc (https://www.reddit.com/r/nyc/comments/18cdkg1)",
+      "title": "Crowd-sourced map of restrooms (with door codes) in NYC",
       "url": "https://www.reddit.com/r/nyc/comments/18cdkg1/",
       "focus": "Map links reportedly unavailable to some readers while others recommend the list. Link usability is distinct from venue-data accuracy.",
       "researchers": [
         "Chloe"
-      ]
+      ],
+      "manual_save_filename": "thread_14_18cdkg1.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/nyc/comments/18cdkg1/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_14_18cdkg1.html",
+      "original_browser_file": "reddit_corpus/browser/Crowd-sourced map of restrooms (with door codes) in NYC : nyc.html",
+      "source_title": "Crowd-sourced map of restrooms (with door codes) in NYC : nyc",
+      "capture_sha256": "102610d8a112ec94b9ee9b2ec9f840208c3604504ab2c774c31288d6ca2fa78c"
     },
     {
       "thread_id": "10r1fqo",
-      "title": "Access to public park restrooms should be a basic human right, and the city is failing in this regard : r/nyc (https://www.reddit.com/r/nyc/comments/10r1fqo)",
+      "title": "Access to public park restrooms should be a basic human right, and the city is failing in this regard",
       "url": "https://www.reddit.com/r/nyc/comments/10r1fqo/",
       "focus": "A poster distinguishes individual facilities' open, temporarily closed, and restricted statuses. Historical reported states, not current checked conditions.",
       "researchers": [
         "Chloe"
-      ]
+      ],
+      "manual_save_filename": "thread_15_10r1fqo.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/nyc/comments/10r1fqo/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_15_10r1fqo.html",
+      "original_browser_file": "reddit_corpus/browser/Access to public park restrooms should be a basic human right, and the city is failing in this regar.html",
+      "source_title": "Access to public park restrooms should be a basic human right, and the city is failing in this regard : nyc",
+      "capture_sha256": "62d3a387ed6e45c83b0a15e4c090edb4d81985c71cb5bafcf1a9c579fe65368f"
     },
     {
       "thread_id": "1ft63mc",
-      "title": "Super odd question, but... where are the restrooms in NYC? : r/AskNYC (https://www.reddit.com/r/AskNYC/comments/1ft63mc/super_odd_question_but_where_are_the_restrooms_in/)",
+      "title": "Super odd question, but... where are the restrooms in NYC?",
       "url": "https://www.reddit.com/r/AskNYC/comments/1ft63mc/",
       "focus": "Entry-rule uncertainty and criticism of an enlarged bathroom map's loading speed and geographic scope.",
       "researchers": [
         "Chloe",
         "Alex"
-      ]
+      ],
+      "manual_save_filename": "thread_16_1ft63mc.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/AskNYC/comments/1ft63mc/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_16_1ft63mc.html",
+      "original_browser_file": "reddit_corpus/browser/Super odd question, but... where are the restrooms in NYC? : AskNYC.html",
+      "source_title": "Super odd question, but... where are the restrooms in NYC? : AskNYC",
+      "capture_sha256": "85742d0bad6cbeb53cd75bc7e76fecb05994327015497c84248aaf745fefeec5"
     },
     {
       "thread_id": "reusvf",
@@ -163,7 +291,15 @@
       "focus": "Hotel permission while carrying a suitcase.",
       "researchers": [
         "Alex"
-      ]
+      ],
+      "manual_save_filename": "thread_17_reusvf.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/AskNYC/comments/reusvf/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_17_reusvf.html",
+      "original_browser_file": "reddit_corpus/browser/What's a NYC \"lifehack\" that seemed good at the time but in retrospect was just slower and:or stupid.html",
+      "source_title": "What's a NYC \"lifehack\" that seemed good at the time but in retrospect was just slower and/or stupider and worse? : AskNYC",
+      "capture_sha256": "1a98e4ac932dcb58b2938a154865125ec7ee70bbdea74f1cd4c317d61d6ffe6f"
     },
     {
       "thread_id": "vabcpz",
@@ -172,7 +308,15 @@
       "focus": "Internal routes and guest/key restrictions; one keycard excerpt varied between tool retrievals and was not selected.",
       "researchers": [
         "Alex"
-      ]
+      ],
+      "manual_save_filename": "thread_18_vabcpz.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/AskNYC/comments/vabcpz/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_18_vabcpz.html",
+      "original_browser_file": "reddit_corpus/browser/Urgent! Where can u go to bathroom at times square? : AskNYC.html",
+      "source_title": "Urgent! Where can u go to bathroom at times square? : AskNYC",
+      "capture_sha256": "08d3786b977e1d58a02b7bef4311e3625ea578413c12a3c9c94f8e6b012852d8"
     },
     {
       "thread_id": "14jqol3",
@@ -181,7 +325,15 @@
       "focus": "Internal restroom stairs; wider disability context must not be collapsed into luggage needs.",
       "researchers": [
         "Alex"
-      ]
+      ],
+      "manual_save_filename": "thread_19_14jqol3.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/AskNYC/comments/14jqol3/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_19_14jqol3.html",
+      "original_browser_file": "reddit_corpus/browser/Do you think NYC is an accessible city? : AskNYC.html",
+      "source_title": "Do you think NYC is an accessible city? : AskNYC",
+      "capture_sha256": "ea3e1bae53ab983799d858ff8c24a3083051e7bc2ed58faa9b17d8561b3fa27d"
     },
     {
       "thread_id": "exzlbo",
@@ -190,7 +342,188 @@
       "focus": "Specific floors and hallways; privacy context differs from luggage needs.",
       "researchers": [
         "Alex"
-      ]
+      ],
+      "manual_save_filename": "thread_20_exzlbo.html",
+      "manual_saved": true,
+      "manual_html_url": "https://old.reddit.com/r/AskNYC/comments/exzlbo/",
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/thread_20_exzlbo.html",
+      "original_browser_file": "reddit_corpus/browser/Public places with to-the-floor or to-the-ceiling bathroom stalls. Kind of personal, but also in a l.html",
+      "source_title": "Public places with to-the-floor or to-the-ceiling bathroom stalls. Kind of personal, but also in a little bit of a dilemma spot. : AskNYC",
+      "capture_sha256": "2f4e64be682dc65fc73bd26ce4f8adae44df884cce7061bcf09663565cf7c427"
     }
+  ],
+  "manual_collection_checked_on": "2026-10-09",
+  "usable_manual_raw_files": 34,
+  "planned_search_files": 12,
+  "planned_thread_files": 20,
+  "track_names_note": "Maya, Chloe and Alex identify AI research tracks, not Reddit authors or interview participants.",
+  "excluded_interview_records": [
+    "C03",
+    "A03"
+  ],
+  "planned_search_html": [
+    {
+      "label": "AskNYC: public bathrooms",
+      "url": "https://old.reddit.com/r/AskNYC/search/?q=public%20bathrooms&restrict_sr=on&sort=relevance&t=all",
+      "filename": "search_01_asknyc_public_bathrooms.html",
+      "manual_saved": true,
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/search_01_asknyc_public_bathrooms.html",
+      "original_browser_file": "reddit_corpus/browser/AskNYC: search results - public bathrooms.html",
+      "result_count": 25
+    },
+    {
+      "label": "AskNYC: clean bathroom",
+      "url": "https://old.reddit.com/r/AskNYC/search/?q=clean%20bathroom&restrict_sr=on&sort=relevance&t=all",
+      "filename": "search_02_asknyc_clean_bathroom.html",
+      "manual_saved": true,
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/search_02_asknyc_clean_bathroom.html",
+      "original_browser_file": "reddit_corpus/browser/AskNYC: search results - clean bathroom.html",
+      "result_count": 25
+    },
+    {
+      "label": "AskNYC: bathroom map",
+      "url": "https://old.reddit.com/r/AskNYC/search/?q=bathroom%20map&restrict_sr=on&sort=relevance&t=all",
+      "filename": "search_03_asknyc_bathroom_map.html",
+      "manual_saved": true,
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/search_03_asknyc_bathroom_map.html",
+      "original_browser_file": "reddit_corpus/browser/AskNYC: search results - bathroom map.html",
+      "result_count": 12
+    },
+    {
+      "label": "nyc: bathroom outdated",
+      "url": "https://old.reddit.com/r/nyc/search/?q=bathroom%20outdated&restrict_sr=on&sort=relevance&t=all",
+      "filename": "search_04_nyc_bathroom_outdated.html",
+      "manual_saved": true,
+      "usable": false,
+      "saved_file": "reddit_corpus/raw/search_04_nyc_bathroom_outdated.html",
+      "original_browser_file": "reddit_corpus/browser/nyc: search results - bathroom outdated.html",
+      "result_count": 0
+    },
+    {
+      "label": "AskNYC: bathroom locked",
+      "url": "https://old.reddit.com/r/AskNYC/search/?q=bathroom%20locked&restrict_sr=on&sort=relevance&t=all",
+      "filename": "search_05_asknyc_bathroom_locked.html",
+      "manual_saved": true,
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/search_05_asknyc_bathroom_locked.html",
+      "original_browser_file": "reddit_corpus/browser/AskNYC: search results - bathroom locked.html",
+      "result_count": 25
+    },
+    {
+      "label": "AskNYC: bathroom purchase",
+      "url": "https://old.reddit.com/r/AskNYC/search/?q=bathroom%20purchase&restrict_sr=on&sort=relevance&t=all",
+      "filename": "search_06_asknyc_bathroom_purchase.html",
+      "manual_saved": true,
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/search_06_asknyc_bathroom_purchase.html",
+      "original_browser_file": "reddit_corpus/browser/AskNYC: search results - bathroom purchase.html",
+      "result_count": 25
+    },
+    {
+      "label": "AskNYC: restroom stairs",
+      "url": "https://old.reddit.com/r/AskNYC/search/?q=restroom%20stairs&restrict_sr=on&sort=relevance&t=all",
+      "filename": "search_07_asknyc_restroom_stairs.html",
+      "manual_saved": true,
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/search_07_asknyc_restroom_stairs.html",
+      "original_browser_file": "reddit_corpus/browser/AskNYC: search results - restroom stairs.html",
+      "result_count": 2
+    },
+    {
+      "label": "nyc: bathroom luggage",
+      "url": "https://old.reddit.com/r/nyc/search/?q=bathroom%20luggage&restrict_sr=on&sort=relevance&t=all",
+      "filename": "search_08_nyc_bathroom_luggage.html",
+      "manual_saved": true,
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/search_08_nyc_bathroom_luggage.html",
+      "original_browser_file": "reddit_corpus/browser/nyc: search results - bathroom luggage.html",
+      "result_count": 1
+    },
+    {
+      "label": "AskNYC: restroom floor",
+      "url": "https://old.reddit.com/r/AskNYC/search/?q=restroom%20floor&restrict_sr=on&sort=relevance&t=all",
+      "filename": "search_09_asknyc_restroom_floor.html",
+      "manual_saved": true,
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/search_09_asknyc_restroom_floor.html",
+      "original_browser_file": "reddit_corpus/browser/AskNYC: search results - restroom floor.html",
+      "result_count": 9
+    },
+    {
+      "label": "AskNYC: bathroom hotel key",
+      "url": "https://old.reddit.com/r/AskNYC/search/?q=bathroom%20hotel%20key&restrict_sr=on&sort=relevance&t=all",
+      "filename": "search_10_asknyc_bathroom_hotel_key.html",
+      "manual_saved": true,
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/search_10_asknyc_bathroom_hotel_key.html",
+      "original_browser_file": "reddit_corpus/browser/AskNYC: search results - bathroom hotel key.html",
+      "result_count": 25
+    },
+    {
+      "label": "AskNYC: bathroom reliable",
+      "url": "https://old.reddit.com/r/AskNYC/search/?q=bathroom%20reliable&restrict_sr=on&sort=relevance&t=all",
+      "filename": "search_11_asknyc_bathroom_reliable.html",
+      "manual_saved": true,
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/search_11_asknyc_bathroom_reliable.html",
+      "original_browser_file": "reddit_corpus/browser/AskNYC: search results - bathroom reliable.html",
+      "result_count": 16
+    },
+    {
+      "label": "nyc: public restroom",
+      "url": "https://old.reddit.com/r/nyc/search/?q=public%20restroom&restrict_sr=on&sort=relevance&t=all",
+      "filename": "search_12_nyc_public_restroom.html",
+      "manual_saved": true,
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/search_12_nyc_public_restroom.html",
+      "original_browser_file": "reddit_corpus/browser/nyc: search results - public restroom.html",
+      "result_count": 25
+    }
+  ],
+  "planned_comment_files": [
+    {
+      "label": "R3 — conflicting Starbucks advice",
+      "url": "https://old.reddit.com/r/AskNYC/comments/192gaah/comment/kh25iyx/?context=3",
+      "filename": "quote_R3_192gaah_kh25iyx.html",
+      "manual_saved": true,
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/quote_R3_192gaah_kh25iyx.html",
+      "original_browser_file": "reddit_corpus/browser/Q1 Is there an app that shows where to go when you got to go? : AskNYC.html"
+    },
+    {
+      "label": "R4 — suitcase and hotel refusal",
+      "url": "https://old.reddit.com/r/AskNYC/comments/reusvf/comment/hoczy9n/?context=3",
+      "filename": "quote_R4_reusvf_hoczy9n.html",
+      "manual_saved": true,
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/quote_R4_reusvf_hoczy9n.html",
+      "original_browser_file": "reddit_corpus/browser/Q2 grayperson_ comments on What's a NYC \"lifehack\" that seemed good at the time but in retrospect was j.html"
+    },
+    {
+      "label": "R5 — stairs inside restaurants",
+      "url": "https://old.reddit.com/r/AskNYC/comments/14jqol3/comment/jpqyn9d/?context=3",
+      "filename": "quote_R5_14jqol3_jpqyn9d.html",
+      "manual_saved": true,
+      "usable": true,
+      "saved_file": "reddit_corpus/raw/quote_R5_14jqol3_jpqyn9d.html",
+      "original_browser_file": "reddit_corpus/browser/Q3 Technical-Monk-2146 comments on Do you think NYC is an accessible city?.html"
+    }
+  ],
+  "planned_collection_links": 35,
+  "preferred_manual_format": "HTML from old.reddit.com",
+  "saved_manual_reddit_files": 35,
+  "usable_manual_search_files": 11,
+  "manually_saved_thread_files": 20,
+  "manually_saved_comment_files": 3,
+  "manual_collection_manifest": "collection_manifest.json",
+  "manual_collection_location": "reddit_corpus/raw/",
+  "originals_location": "reddit_corpus/browser/",
+  "logged_in_browser_saves_verified": true,
+  "empty_searches": [
+    "reddit_corpus/raw/search_04_nyc_bathroom_outdated.html"
   ]
 }
