@@ -1,0 +1,71 @@
+{
+  "retrieved_on": "2026-10-08",
+  "method": "Public web search and opened Reddit HTML extracts; not manual raw JSON collection",
+  "quotes": [
+    {
+      "id": "R1",
+      "author": "u/Kit-Hon",
+      "quote": "I don’t need anything fancy. Just a clean-ish stall and working toilet paper.",
+      "url": "https://www.reddit.com/r/AskNYC/comments/1vp3cve/where_are_all_the_decent_public_restrooms_in_this/",
+      "context": "The original poster describes looking around Midtown and the Village, encountering codes and purchase restrictions, and wanting basic usable conditions.",
+      "use": "Maya persona; Brand Values, Canonical Language, and condition checklist.",
+      "limit": "A personal threshold, not a measure of cleanliness or proof of app adoption.",
+      "retrieved_on": "2026-10-08",
+      "source_type": "Opened Reddit post or comment, tool-extracted HTML text",
+      "exact_post_date": null,
+      "date_note": "Opened pages show relative ages; no exact posting date is asserted here."
+    },
+    {
+      "id": "R2",
+      "author": "u/jaded_toast",
+      "quote": "I don't want just any bathroom; I want clean bathrooms you can personally vouch for!",
+      "url": "https://www.reddit.com/r/AskNYC/comments/1nv77hi/ok_weird_question_but_what_are_some_nice_and/",
+      "context": "The poster is planning a walk around Manhattan’s perimeter and rejects unvetted map suggestions in favor of recommendations based on personal experience.",
+      "use": "Maya and Chloe personas; Target Identity, Canonical Language, and the map-versus-evidence objection.",
+      "limit": "Does not prove another map lacks all condition data or that users will contribute reports.",
+      "retrieved_on": "2026-10-08",
+      "source_type": "Opened Reddit post or comment, tool-extracted HTML text",
+      "exact_post_date": null,
+      "date_note": "Opened pages show relative ages; no exact posting date is asserted here."
+    },
+    {
+      "id": "R3",
+      "author": "[deleted]",
+      "quote": "No, this is outdated advice. Many Starbucks are no longer allowing even paying customers to use bathrooms. It's hit or miss at best.",
+      "url": "https://www.reddit.com/r/AskNYC/comments/192gaah/comment/kh25iyx/",
+      "context": "A reply challenges a broad recommendation to use Starbucks bathrooms. Other replies describe different experiences.",
+      "use": "Chloe persona; source and observation-time rules; objection handling.",
+      "limit": "Historical conflicting advice, not a statement of current Starbucks policy or refusal frequency.",
+      "retrieved_on": "2026-10-08",
+      "source_type": "Opened Reddit post or comment, tool-extracted HTML text",
+      "exact_post_date": null,
+      "date_note": "Opened pages show relative ages; no exact posting date is asserted here."
+    },
+    {
+      "id": "R4",
+      "author": "u/grayperson_",
+      "quote": "Guy followed me to the bathroom to say I had to leave and couldn't do that.",
+      "url": "https://www.reddit.com/r/AskNYC/comments/reusvf/comment/hoczy9n/",
+      "context": "In the preceding sentence, the commenter says they had a suitcase at a hotel a block from Penn. This reply challenges the suggestion that hotel bathrooms are a dependable fallback.",
+      "use": "Alex persona; entry-rule emphasis and distinction between a building being open and restroom permission.",
+      "limit": "A luggage and permission account. It does not describe stairs or prove a universal hotel rule.",
+      "retrieved_on": "2026-10-08",
+      "source_type": "Opened Reddit post or comment, tool-extracted HTML text",
+      "exact_post_date": null,
+      "date_note": "Opened pages show relative ages; no exact posting date is asserted here."
+    },
+    {
+      "id": "R5",
+      "author": "u/Technical-Monk-2146",
+      "quote": "Restaurant bathrooms are often down a narrow flight of stairs.",
+      "url": "https://www.reddit.com/r/AskNYC/comments/14jqol3/comment/jpqyn9d/",
+      "context": "A comment in a wider discussion of NYC accessibility, identifying an internal restroom route detail.",
+      "use": "Alex persona; product definition and route-inside emphasis.",
+      "limit": "A commenter’s general observation, not an inspected venue list, prevalence estimate, or wheelchair usability assessment.",
+      "retrieved_on": "2026-10-08",
+      "source_type": "Opened Reddit post or comment, tool-extracted HTML text",
+      "exact_post_date": null,
+      "date_note": "Opened pages show relative ages; no exact posting date is asserted here."
+    }
+  ]
+}

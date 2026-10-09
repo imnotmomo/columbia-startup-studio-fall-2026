@@ -1,14 +1,11 @@
 # Brand Position — Restroom Ready
 
-**Team:** Five Girls
-
-**Date:** October 8, 2026
-
-**Product:** Restroom Ready
-
+**Team:** Five Girls  
+**Date:** October 8, 2026  
+**Product:** Restroom Ready  
 **Scope:** Internal direction for a product in development. The experience below is what we intend to build, not a claim that the map or its coverage already exists.
 
-**Research basis:** The team’s supplied interview records and public Reddit discussions about NYC restrooms. Reddit excerpts below were checked against opened posts or comments; the thread list and source limits are in [Reddit research](reddit_research/research_summary.md). Previously identified simulated C03/A03 material is not used as customer evidence here. The personas are fictional composites grounded in source accounts, not additional interviews.
+**Research basis:** The team’s supplied interview records and public Reddit discussions about NYC restrooms. Reddit excerpts below were checked against opened posts or comments; the thread list and source limits are in [Reddit research](../../reddit_research/research_summary.md). Previously identified simulated C03/A03 material is not used as customer evidence here. The personas are fictional composites grounded in source accounts, not additional interviews.
 
 ## Brand Thesis
 
@@ -98,31 +95,31 @@ The following match the supplied raw notes. They are research quotations, not pu
 
 > The dirty ones don't stop me. The locked ones do.
 
-[C01 raw notes](../hw3-interviews/raw_notes/C01.md), Q6.
+[C01 raw notes](../../../hw3-interviews/raw_notes/C01.md), Q6.
 
 **I2 — Learning conditions before the walk.**
 
 > I wish I could have known in advance which restroom was cleaner instead of having to discover it myself by walking
 
-[C05 raw notes](../hw3-interviews/raw_notes/C05.md), Q14.
+[C05 raw notes](../../../hw3-interviews/raw_notes/C05.md), Q14.
 
 **I3 — Code and belongings information; a concept reaction.**
 
 > If it told me which ones don't need a code and where I can bring my stuff in, that I'd actually use.
 
-[C01 raw notes](../hw3-interviews/raw_notes/C01.md), Q12.
+[C01 raw notes](../../../hw3-interviews/raw_notes/C01.md), Q12.
 
 **I4 — The restroom’s location inside a venue.**
 
 > I think the annoying part is that Google Maps tells you where the place is, but not where the bathroom actually is.
 
-[A04 raw notes](../hw3-interviews/raw_notes/A04.md), Q4.
+[A04 raw notes](../../../hw3-interviews/raw_notes/A04.md), Q4.
 
 **I5 — The evidence behind an accessibility label.**
 
 > Who's verifying it, though? Because if it's just people tapping 'accessible,' that's what I already have.
 
-[A01 raw notes](../hw3-interviews/raw_notes/A01.md), Q12.
+[A01 raw notes](../../../hw3-interviews/raw_notes/A01.md), Q12.
 
 ### From Reddit
 
@@ -172,24 +169,6 @@ These are excerpts from public posts or comments, retrieved October 8, 2026. The
 
 Use “Find nearby restrooms” only once the map works. Label illustrative records as examples; do not invent live listings, user counts, timestamps, or testimonials.
 
-## Example Listing
-
-**Illustrative only. This is not a real venue or a live listing. All people, day labels, and values in this table are sample data showing how the proposed display works.**
-
-**Example café — entry:** Purchase required, as reported by Example visitor A. **Route:** Restroom on the entrance level; no stairs after entry reported. These describe this sample report, not an accessibility certification.
-
-| Detail | Sample report | Observed | Submitted | Source |
-| --- | --- | --- | --- | --- |
-| Restroom floor and stairs | Entrance level; no stairs after entry | Day 1, 4:10 PM | Day 1, 4:25 PM | Example visitor A |
-| Purchase rule | Purchase required | Day 1, 4:10 PM | Day 1, 4:25 PM | Example visitor A |
-| Floor and usable stall | Dry floor; stall usable | Day 1, 4:10 PM | Day 1, 4:25 PM | Example visitor A |
-| Toilet paper, report A | Present | Day 1, 4:10 PM | Day 1, 4:25 PM | Example visitor A |
-| Toilet paper, report B | Missing | Not provided | Day 2, 9:05 AM | Example visitor B |
-| Soap | Not reported | Unknown | — | No source |
-| Elevator status | Not reported | Unknown | — | No source |
-
-**Conflicting reports:** Paper was reported present by A and missing by B. B’s later submission does not establish a later observation. Neither report establishes the condition now. The route, condition, and purchase-rule reports retain their own dates; a new paper report does not refresh every field.
-
 ## Persona Check
 
-Maya, Chloe, and Alex evaluate different parts of this position. Their recorded reactions and any revisions are in [the persona review](personas/persona_review.md). This is synthetic copy testing, not confirmation of customer demand or current data coverage.
+Maya, Chloe, and Alex evaluate different parts of this position. Their recorded reactions and any revisions are in [the persona review](../persona_review.md). This is synthetic copy testing, not confirmation of customer demand or current data coverage.

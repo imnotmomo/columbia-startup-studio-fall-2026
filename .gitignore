@@ -6,6 +6,13 @@
 
 # Claude Code
 .claude/
+!.claude/
+.claude/*
+!.claude/agents/
+.claude/agents/*
+!.claude/agents/judge-maya.md
+!.claude/agents/judge-chloe.md
+!.claude/agents/judge-alex.md
 
 # Editor files
 *.swp

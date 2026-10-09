@@ -1,0 +1,196 @@
+{
+  "retrieved_on": "2026-10-08",
+  "unique_threads": 20,
+  "method": "Tool-opened Reddit pages",
+  "manual_collection_complete": false,
+  "threads": [
+    {
+      "thread_id": "1vp3cve",
+      "title": "Where are all the decent public restrooms in this city?",
+      "url": "https://www.reddit.com/r/AskNYC/comments/1vp3cve/where_are_all_the_decent_public_restrooms_in_this/",
+      "focus": "Minimum usable condition (clean-ish stall and toilet paper), entry codes, purchases, planning burden.",
+      "researchers": [
+        "Maya",
+        "Alex"
+      ]
+    },
+    {
+      "thread_id": "1nv77hi",
+      "title": "Ok, weird question, but what are some nice and clean bathrooms or what are some businesses where I can purchase something or get some food grab and go that have a bathroom for customer use - around the perimeter of Manhattan?",
+      "url": "https://www.reddit.com/r/AskNYC/comments/1nv77hi/ok_weird_question_but_what_are_some_nice_and/",
+      "focus": "Requests clean bathrooms personally vouched for rather than unvetted lists; minimizes detours along walking route.",
+      "researchers": [
+        "Maya",
+        "Chloe"
+      ]
+    },
+    {
+      "thread_id": "wxq7nl",
+      "title": "Where’s the cleanest (relative) public restroom in Manhattan?",
+      "url": "https://www.reddit.com/r/AskNYC/comments/wxq7nl/wheres_the_cleanest_relative_public_restroom_in/",
+      "focus": "Negative emotional reaction after a restroom visit and request for relatively clean alternatives.",
+      "researchers": [
+        "Maya"
+      ]
+    },
+    {
+      "thread_id": "1urbs88",
+      "title": "Nicest public bathroom",
+      "url": "https://www.reddit.com/r/AskNYC/comments/1urbs88/nicest_public_bathroom/",
+      "focus": "Cleanliness and sink/toilet quality appear alongside decor and amenities; comments offer specific known venues.",
+      "researchers": [
+        "Maya"
+      ]
+    },
+    {
+      "thread_id": "1tc14ro",
+      "title": "Public bathrooms in NYC",
+      "url": "https://www.reddit.com/r/AskNYC/comments/1tc14ro/public_bathrooms_in_nyc/",
+      "focus": "Visitor concerned about condition and frequent need; commenters suggest department stores, known venues and Got2Go. Comments disagree about subway condition and access.",
+      "researchers": [
+        "Maya",
+        "Chloe",
+        "Alex"
+      ]
+    },
+    {
+      "thread_id": "14a7o4u",
+      "title": "Where is your go-to bathroom spot in busy Manhattan",
+      "url": "https://www.reddit.com/r/AskNYC/comments/14a7o4u/where_is_your_goto_bathroom_spot_in_busy_manhattan/",
+      "focus": "Purchase-before-entry causes friction; commenters repeatedly name familiar department-store or bookshop fallbacks and discuss variation in condition.",
+      "researchers": [
+        "Maya",
+        "Chloe",
+        "Alex"
+      ]
+    },
+    {
+      "thread_id": "kf8fwk",
+      "title": "Places in NYC with reliable bathrooms?",
+      "url": "https://www.reddit.com/r/AskNYC/comments/kf8fwk/places_in_nyc_with_reliable_bathrooms/",
+      "focus": "Planning and a small list of known fallback locations; direct OP comment says cleanliness is not the priority, providing a counterexample.",
+      "researchers": [
+        "Maya"
+      ]
+    },
+    {
+      "thread_id": "102s6md",
+      "title": "How do people find public restrooms in NYC?",
+      "url": "https://www.reddit.com/r/AskNYC/comments/102s6md/how_do_people_find_public_restrooms_in_nyc/",
+      "focus": "Visitor discovers facilities out of service; Got2Go/Flush suggestions and link-loading trouble; commenters disagree about ease of access.",
+      "researchers": [
+        "Maya"
+      ]
+    },
+    {
+      "thread_id": "1f9stab",
+      "title": "Investigation of NYC park bathrooms finds alarming rate of litter, missing locks and unsanitary conditions",
+      "url": "https://www.reddit.com/r/nyc/comments/1f9stab/investigation_of_nyc_park_bathrooms_finds/",
+      "focus": "Discussion of missing supplies/locks, condition, and maintenance. The OP quotes a news report rather than personal firsthand experience.",
+      "researchers": [
+        "Maya"
+      ]
+    },
+    {
+      "thread_id": "192gaah",
+      "title": "Is there an app that shows where to go when you got to go? : r/AskNYC (https://www.reddit.com/r/AskNYC/comments/192gaah/is_there_an_app_that_shows_where_to_go_when_you/)",
+      "url": "https://www.reddit.com/r/AskNYC/comments/192gaah/",
+      "focus": "Conflicting Starbucks fallback advice and an explicit objection that recommendations are outdated.",
+      "researchers": [
+        "Chloe"
+      ]
+    },
+    {
+      "thread_id": "1d82vmv",
+      "title": "A new Google Maps layer shows public restrooms in NYC : r/nyc (https://www.reddit.com/r/nyc/comments/1d82vmv)",
+      "url": "https://www.reddit.com/r/nyc/comments/1d82vmv/",
+      "focus": "Location search does not answer working stall-lock condition; contributors also ask about purchase requirements and map usability.",
+      "researchers": [
+        "Chloe"
+      ]
+    },
+    {
+      "thread_id": "1stifh0",
+      "title": "Is Got2Go still going? : r/AskNYC (https://www.reddit.com/r/AskNYC/comments/1stifh0/is_got2go_still_going/)",
+      "url": "https://www.reddit.com/r/AskNYC/comments/1stifh0/",
+      "focus": "Hit-or-miss availability, backup lists, changing access claims, and map loading friction.",
+      "researchers": [
+        "Chloe"
+      ]
+    },
+    {
+      "thread_id": "1gdxitl",
+      "title": "Finding public restrooms in NYC : r/AskNYC (https://www.reddit.com/r/AskNYC/comments/1gdxitl/finding_public_restrooms_in_nyc/)",
+      "url": "https://www.reddit.com/r/AskNYC/comments/1gdxitl/",
+      "focus": "Conflicting user views about restroom apps and the detail or accuracy they supply. Do not adopt unsupported allegations about a creator's motives.",
+      "researchers": [
+        "Chloe",
+        "Alex"
+      ]
+    },
+    {
+      "thread_id": "18cdkg1",
+      "title": "Crowd-sourced map of restrooms (with door codes) in NYC : r/nyc (https://www.reddit.com/r/nyc/comments/18cdkg1)",
+      "url": "https://www.reddit.com/r/nyc/comments/18cdkg1/",
+      "focus": "Map links reportedly unavailable to some readers while others recommend the list. Link usability is distinct from venue-data accuracy.",
+      "researchers": [
+        "Chloe"
+      ]
+    },
+    {
+      "thread_id": "10r1fqo",
+      "title": "Access to public park restrooms should be a basic human right, and the city is failing in this regard : r/nyc (https://www.reddit.com/r/nyc/comments/10r1fqo)",
+      "url": "https://www.reddit.com/r/nyc/comments/10r1fqo/",
+      "focus": "A poster distinguishes individual facilities' open, temporarily closed, and restricted statuses. Historical reported states, not current checked conditions.",
+      "researchers": [
+        "Chloe"
+      ]
+    },
+    {
+      "thread_id": "1ft63mc",
+      "title": "Super odd question, but... where are the restrooms in NYC? : r/AskNYC (https://www.reddit.com/r/AskNYC/comments/1ft63mc/super_odd_question_but_where_are_the_restrooms_in/)",
+      "url": "https://www.reddit.com/r/AskNYC/comments/1ft63mc/",
+      "focus": "Entry-rule uncertainty and criticism of an enlarged bathroom map's loading speed and geographic scope.",
+      "researchers": [
+        "Chloe",
+        "Alex"
+      ]
+    },
+    {
+      "thread_id": "reusvf",
+      "title": "What NYC lifehack was worse than expected?",
+      "url": "https://www.reddit.com/r/AskNYC/comments/reusvf/",
+      "focus": "Hotel permission while carrying a suitcase.",
+      "researchers": [
+        "Alex"
+      ]
+    },
+    {
+      "thread_id": "vabcpz",
+      "title": "Urgent! Where can you go to the bathroom at Times Square?",
+      "url": "https://www.reddit.com/r/AskNYC/comments/vabcpz/",
+      "focus": "Internal routes and guest/key restrictions; one keycard excerpt varied between tool retrievals and was not selected.",
+      "researchers": [
+        "Alex"
+      ]
+    },
+    {
+      "thread_id": "14jqol3",
+      "title": "Do you think NYC is an accessible city?",
+      "url": "https://www.reddit.com/r/AskNYC/comments/14jqol3/",
+      "focus": "Internal restroom stairs; wider disability context must not be collapsed into luggage needs.",
+      "researchers": [
+        "Alex"
+      ]
+    },
+    {
+      "thread_id": "exzlbo",
+      "title": "Quiet or private public bathroom options",
+      "url": "https://www.reddit.com/r/AskNYC/comments/exzlbo/",
+      "focus": "Specific floors and hallways; privacy context differs from luggage needs.",
+      "researchers": [
+        "Alex"
+      ]
+    }
+  ]
+}

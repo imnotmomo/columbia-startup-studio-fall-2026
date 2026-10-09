@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-08",
+  "runtime": "Three separate Codex subagent sessions, each explicitly loading its installed TOML persona definition",
+  "artifact": "../../review_history/brand_position_round1.md",
+  "artifact_sha256": "c74da1e738bc2a2beee5d03cc5ff1c536e1445d4975899152962223cb647bd50",
+  "reviewers": {
+    "maya": {
+      "session": "/root/judge_maya_test",
+      "installed_role": ".codex/agents/judge-maya.toml",
+      "role_sha256": "037df2002fa135c2e0372a1cc1e35993570ebadb752f729e013d17abac22f00d"
+    },
+    "chloe": {
+      "session": "/root/judge_chloe_test",
+      "installed_role": ".codex/agents/judge-chloe.toml",
+      "role_sha256": "0bc34d5bee7c56675a3f2bb9e28ceafedece3aad4cdf65185e068b8effe4e3bc"
+    },
+    "alex": {
+      "session": "/root/judge_alex_test",
+      "installed_role": ".codex/agents/judge-alex.toml",
+      "role_sha256": "1b285b1614913f20c40d13f900346012142c934688c6a36236775b96181aa7b2"
+    }
+  },
+  "limits": "Synthetic copy evaluation; not real customer interviews, adoption, payment, or product usability evidence."
+}

@@ -1,0 +1,14 @@
+{
+  "persona": "judge-chloe",
+  "artifact": "brand_position_round1",
+  "verdict": "approve",
+  "score": 9,
+  "headline": "This proposal gives me the sources, observation times, and uncertainty I need to judge a recommendation.",
+  "must_fix": [],
+  "nice_to_have": [
+    "Include a clearly labeled example listing showing an unknown observation time and conflicting dated reports so I can see how those details will read together."
+  ],
+  "in_character_reaction": "I want to know when someone visited, not just when they posted, and this makes that distinction clear. Entry rules belong to the specific location, and I can inspect the information without signing up. I would still keep a fallback, but this gives me useful details for choosing.",
+  "would_flip_me": "",
+  "would_pay": "n/a"
+}

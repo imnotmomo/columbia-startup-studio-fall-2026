@@ -1,0 +1,12 @@
+{
+  "persona": "judge-chloe",
+  "artifact": "brand_position_round2",
+  "verdict": "approve",
+  "score": 10,
+  "headline": "The example makes the proposal’s evidence limits concrete and gives me enough information to judge conflicting reports.",
+  "must_fix": [],
+  "nice_to_have": [],
+  "in_character_reaction": "The example tells me who reported each detail and separates the visit from the submission. If B posted later but did not provide a visit time, I cannot assume the missing paper report is newer, and the copy says that clearly. This is sample data, but the proposed display would help me choose while keeping a fallback.",
+  "would_flip_me": "",
+  "would_pay": "n/a"
+}

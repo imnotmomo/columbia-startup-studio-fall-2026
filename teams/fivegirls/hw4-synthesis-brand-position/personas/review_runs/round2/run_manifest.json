@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-08",
+  "runtime": "Three separate Codex subagent sessions explicitly reloaded the installed TOML persona definitions",
+  "artifact": "../../review_history/brand_position_round2.md",
+  "artifact_sha256": "6da8f7a68344a3239dc580ce47d71dd6d8216aa5cdd561673843ea7c4ff028e9",
+  "final_document_sha256": "91f5b30bbdf2b42dd3db8dd76683296cc582302964d0eb5169449cdb035fb3e6",
+  "reviewers": {
+    "maya": {
+      "session": "/root/judge_maya_test",
+      "installed_role": ".codex/agents/judge-maya.toml",
+      "role_sha256": "037df2002fa135c2e0372a1cc1e35993570ebadb752f729e013d17abac22f00d"
+    },
+    "chloe": {
+      "session": "/root/judge_chloe_test",
+      "installed_role": ".codex/agents/judge-chloe.toml",
+      "role_sha256": "0bc34d5bee7c56675a3f2bb9e28ceafedece3aad4cdf65185e068b8effe4e3bc"
+    },
+    "alex": {
+      "session": "/root/judge_alex_test",
+      "installed_role": ".codex/agents/judge-alex.toml",
+      "role_sha256": "1b285b1614913f20c40d13f900346012142c934688c6a36236775b96181aa7b2"
+    }
+  },
+  "limits": "Synthetic copy review, not customer interviews, verified venue conditions, or product demand.",
+  "final_document_note": "Same reviewed content; relative source-link paths and metadata paragraph spacing adjusted for final location."
+}
