@@ -20,7 +20,7 @@ Public App Store distribution, payments, live occupancy or guaranteed opening ho
 
 ## Stack and development
 
-Native: SwiftUI, MapKit and Core Location, iOS 18+, system fonts and Liquid Glass with fallbacks. Web: Next.js, React and TypeScript on our VPS with Caddy HTTPS. Both share Firebase Google Authentication and Firestore. Cloudflare sends signup confirmations; GA4 measures web visits/signups only. Coding agent: Codex. Process: brief → plan → independent review → build → verify → ship.
+Native: SwiftUI, MapKit and Core Location, iOS 18+, system fonts and Liquid Glass with fallbacks. Web: Next.js, React and TypeScript on our VPS with Caddy HTTPS. Both share Firebase Google Authentication and Firestore. Cloudflare sends legacy email-form confirmations. GA4 measures web visits and first-time Google account signups; native Analytics source is prepared but its next TestFlight build is pending. Coding agent: Codex. Process: brief → plan → independent review → build → verify → ship.
 
 ## Planned responsibilities
 
