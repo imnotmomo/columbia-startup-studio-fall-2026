@@ -54,7 +54,7 @@ These are property-wide Analytics figures. They can include team and QA activity
 
 At approximately **1:17 PM Eastern on October 23**, a fresh Realtime overview showed one homepage `page_view` and one `session_start` after a visit labeled `utm_source=verification&utm_medium=qa&utm_campaign=hw6_realtime_check&utm_content=post_merge`. The active-user card still showed zero at capture time; the event table supplies the collection evidence. This visit is QA traffic, not acquisition. No production account, signup conversion or confirmation email was created.
 
-![Google Analytics Realtime overview showing received page_view and session_start events](evidence/analytics-realtime.png)
+![Google Analytics Realtime overview showing received page_view and session_start events](evidence/analytics-realtime.jpg)
 
 The seven-day screenshots above supply historical traffic context. They do not replace this Realtime collection check or establish successful new-account conversions.
 
