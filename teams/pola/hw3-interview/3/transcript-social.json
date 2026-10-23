@@ -1,0 +1,857 @@
+[
+  {
+    "timestamp": [
+      0,
+      6.96
+    ],
+    "text": " Okay, hello, I'm Harry. We are doing a Columbia class project on keeping in touch with people you meet on campus",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high",
+    "speaker_note": "Speaker turns are inferred from text, not verified against audio. The user identifies Shuya as a Columbia graduate student in computer science, ML track, and Harry as the interviewer."
+  },
+  {
+    "timestamp": [
+      6.96,
+      13.88
+    ],
+    "text": " So can you please spare about five to ten minutes and if it is okay for me to take notes or records or a conversation?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      15.28,
+      21.82
+    ],
+    "text": " Yes, that is okay. Okay. Thank you so much. It's really helpful for us to hear what already works too. Okay, so",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " Yes, that is okay.",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " Okay. Thank you so much. It's really helpful for us to hear what already works too. Okay, so",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available."
+  },
+  {
+    "timestamp": [
+      22.64,
+      26.74
+    ],
+    "text": " think about someone you recently met through a class or in the",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      26.74,
+      32.76
+    ],
+    "text": " dorm or the event who isn't a really close friends. So can you tell me how",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      32.76,
+      46.6
+    ],
+    "text": " have you kept in touch with each other? I guess we even keeping in touch You didn't keep it until I just had to see more in some while",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " have you kept in touch with each other?",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " I guess we even keeping in touch",
+        "speaker_confidence": "medium"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " You didn't keep it until",
+        "speaker_confidence": "low"
+      },
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " I just had to see more in some while",
+        "speaker_confidence": "medium"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available. The garbled exchange about keeping in touch has uncertain speaker boundaries."
+  },
+  {
+    "timestamp": [
+      49.36,
+      52.68
+    ],
+    "text": " And occasionally hang out",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      56.44,
+      57.76
+    ],
+    "text": " And maybe like go to certain events if there is events on campus",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      62.1,
+      62.32
+    ],
+    "text": " And yeah, those are the things I can think of right now. Okay, I see",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " And yeah, those are the things I can think of right now.",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " Okay, I see",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available."
+  },
+  {
+    "timestamp": [
+      68.6,
+      71
+    ],
+    "text": " So can you tell me what might be the hardest part if anything about keeping in touch with people like that?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      71,
+      92.84
+    ],
+    "text": " The hardest part, I guess if like sometimes you may forget to text and that could cause even lose contact",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      92.84,
+      102.84
+    ],
+    "text": " with some people and also if like people are busy that's going to make it hard for",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      102.84,
+      105.84
+    ],
+    "text": " you to either meet up with them and",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      105.84,
+      107.12
+    ],
+    "text": " get on stuff like that.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      107.12,
+      112.4
+    ],
+    "text": " So I think the amount of work you have can make it hard for that too.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      112.4,
+      115.4
+    ],
+    "text": " Yeah, that's true.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      115.4,
+      123.36
+    ],
+    "text": " And can you, so in this kind of difficulty, can you tell me why does this matter to you",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      123.36,
+      127
+    ],
+    "text": " or how often it happened in the past month.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      127,
+      137
+    ],
+    "text": " I hope that it's based on top of it pretty often for me just because right now I've been",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      137,
+      145.44
+    ],
+    "text": " getting a lot of work and I'm going to plan to open tips and stuff like that. It's kind of new perhaps.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      147.6,
+      149.76
+    ],
+    "text": " That's quite making it hard for me.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      151.8,
+      153.52
+    ],
+    "text": " Um, at the moment, uh, what's other content questions?",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      153.52,
+      153.92
+    ],
+    "text": " Sorry.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      154.92,
+      156.24
+    ],
+    "text": " Sorry to just be said again.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      156.24,
+      158.52
+    ],
+    "text": " You just have a network problem.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      160.08,
+      163.08
+    ],
+    "text": " Oh, sorry. Um, I said.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      167.6,
+      170
+    ],
+    "text": " A recently, it's been harder because I've been so seeing that around my work, uh, on",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      170,
+      173.2
+    ],
+    "text": " internships and so see more on like",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      173.2,
+      175.28
+    ],
+    "text": " career interview parking for any of",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      175.28,
+      178.32
+    ],
+    "text": " use. So because I'm busier, um,",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      180.24,
+      181.76
+    ],
+    "text": " um, yeah.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      184.24,
+      186
+    ],
+    "text": " In this case, so",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      188.64,
+      190.96
+    ],
+    "text": " So you basically try to keep in touch",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      192.24,
+      195.6
+    ],
+    "text": " mainly by the text messages, right?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      196.64,
+      201.84
+    ],
+    "text": " Yes, and since we all have the instant messaging problems, we we can say",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " Yes",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": ", and since we all have the instant messaging problems, we we can say",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available."
+  },
+  {
+    "timestamp": [
+      202.4,
+      206.5
+    ],
+    "text": " we spend low to minimal money specifically on this task, right?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      207.5,
+      208.66
+    ],
+    "text": " Yes",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      208.66,
+      210.66
+    ],
+    "text": " Okay, so let me give you more",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      211.64,
+      219.76
+    ],
+    "text": " Connects about this project. We are exploring a tool that resurfaces a photo from the collection you approve and suggest and",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      220.2,
+      223.48
+    ],
+    "text": " acquaintance to send it to you just choose the",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      222.56,
+      227.04
+    ],
+    "text": " and the quintence to stand it to. You just choose the recipient and approve every stand.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      227.04,
+      229.72
+    ],
+    "text": " So, we'll hear such kind of app,",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      229.72,
+      232.12
+    ],
+    "text": " what is your first reaction or the biggest concern?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      233.08,
+      236.08
+    ],
+    "text": " - Okay, sorry for you, people, what that does.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      237.32,
+      242.08
+    ],
+    "text": " It's like, it reads your photo from the collection",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      242.08,
+      247
+    ],
+    "text": " you'll approve and suggest some people to send it to.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      247,
+      256.76
+    ],
+    "text": " I see. I think that's a good app. Maybe you can like certain photos. So does it face",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      256.76,
+      267.2
+    ],
+    "text": " off like associated photos with the specific person? Is that Alex? You mean to associate the photo is there possible",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " off like associated photos with the specific person? Is that Alex?",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " You mean to associate the photo is there possible",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available."
+  },
+  {
+    "timestamp": [
+      268.2,
+      270.72
+    ],
+    "text": " or maybe a suitable receiving person?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      270.72,
+      271.56
+    ],
+    "text": " You don't mean that?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      271.56,
+      272.4
+    ],
+    "text": " - Yes, yes.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      272.4,
+      275.2
+    ],
+    "text": " - Yeah, that's exactly what we are thinking about.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      276.4,
+      280.04
+    ],
+    "text": " - Okay, yeah, I think that's a great idea.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      281.04,
+      284.32
+    ],
+    "text": " I think I recommend it.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      284.32,
+      287.12
+    ],
+    "text": " I think you'll make force or not force,",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      287.12,
+      292.12
+    ],
+    "text": " but like, induce people to contact sort of people more.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      295.72,
+      297.88
+    ],
+    "text": " Maybe you have someone in your contacts",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      297.88,
+      299.52
+    ],
+    "text": " that you haven't contacted recently,",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      299.52,
+      302.84
+    ],
+    "text": " but this, I've notified that this picture might be",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      302.84,
+      306.08
+    ],
+    "text": " a good picture to send to them.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      309.92,
+      311.12
+    ],
+    "text": " Maybe that will motivate you to send that and connect back with that person in.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      318.96,
+      326.24
+    ],
+    "text": " Yeah. That's, that's what I think. Yeah. That's, that really makes sense. And can please tell me when did you last revisit an old photo in your phone and what did you do next?",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " Yeah. That's, that's what I think.",
+        "speaker_confidence": "medium"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " Yeah. That's, that really makes sense. And can please tell me when did you last revisit an old photo in your phone and what did you do next?",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available."
+  },
+  {
+    "timestamp": [
+      328.64,
+      330.64
+    ],
+    "text": " The last time I revisited.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      330.64,
+      338.08
+    ],
+    "text": " Yeah, just yourself. I mean, not just sending some photos. You're just kind of deliberately or",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      340.8,
+      346.56
+    ],
+    "text": " I guess I think last time I was around like a month ago and I was looking at pictures",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      349.76,
+      351.76
+    ],
+    "text": " by myself from study abroad and",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      352.72,
+      356.24
+    ],
+    "text": " This is me thinking about all the memories I had back then and",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      357,
+      361.5
+    ],
+    "text": " Maybe think about the people that I met there. Oh, nice. Okay. I",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " Maybe think about the people that I met there.",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " Oh, nice. Okay. I",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available."
+  },
+  {
+    "timestamp": [
+      362.76,
+      364.76
+    ],
+    "text": " See so",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      362,
+      362.88
+    ],
+    "text": " Oh nice, okay.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      364.88,
+      367.68
+    ],
+    "text": " I see so...",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      369.68,
+      370.48
+    ],
+    "text": " Yeah, the last question is about",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      373.92,
+      377.76
+    ],
+    "text": " like the concept I provided you earlier. Did you ever try something similar?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      377.76,
+      379.76
+    ],
+    "text": " If yes, what happened?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      380.8,
+      383.28
+    ],
+    "text": " Sorry, uh, clearing it that way, my turn.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      383.28,
+      389
+    ],
+    "text": " Uh, yeah, just I read, I kind of told you our concept, right?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      389,
+      395
+    ],
+    "text": " The photo was sending the algorithm part sent to the possible candidates, right?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      395,
+      400
+    ],
+    "text": " So have you tried something similar to our project, our concept?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      400,
+      403
+    ],
+    "text": " I don't think I have, really.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      403,
+      406
+    ],
+    "text": " I haven't really touched a new idea. I've never heard of it.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      406,
+      412
+    ],
+    "text": " So... yeah. It's a unique idea. It might have experienced some never heard of it.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "medium",
+    "speaker_note": "Garbled continuation after the participant says they have not tried a similar tool; attribution is uncertain without audio."
+  },
+  {
+    "timestamp": [
+      412,
+      420
+    ],
+    "text": " Okay. I see. So I think that I think that's all the information we plan to meet right now.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      420,
+      422.5
+    ],
+    "text": " So thank you so much for your patience and time. Yeah, no problem. Thank you for having me.",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " So thank you so much for your patience and time.",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " Yeah, no problem. Thank you for having me.",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available."
+  }
+]

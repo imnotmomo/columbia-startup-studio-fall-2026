@@ -1,86 +1,88 @@
-# Interview Notes: Zaynah Khan (NYC Housing)
+# Interview Notes: Jackson Palmer (NYC Housing)
 
-**Date:** October 1, 2026  
-**Interviewer:** Izum Adnan
+## Interview snapshot
 
-Zaynah is a domestic graduate student who moved from Pennsylvania. She searched for about three weeks in August, mostly on StreetEasy. A broker did not help; she ultimately got her apartment through a realtor contacted about a different listing and signed the day after seeing it. The central challenge was the time and attention required to get replies before listings disappeared.
+- **Interviewer:** Jorim Chua
+- **Who:** Columbia School of General Studies film student who transferred from Wesleyan and grew up on Long Island. Was denied Columbia Housing and now lives in Outpost, a student-only housing company.
+- **Problem confirmed?:** Partly. The search itself wasn't a major struggle (no paperwork, credit or fee issues), but he independently raised time pressure, slow replies, undisclosed neighborhood conditions and not being able to hear from current residents.
+- **Key quote:** "I would have liked to have spoken more to like current residents because like every single time like we took a tour, there's all these with like someone who worked there or like a sales representative."
+- **Emotional intensity:** 5/10. Mostly calm; strongest about deadline pressure ("it was the worst") and the methadone clinic nobody mentioned.
+- **Current solution:** Asked Columbia for a list of backup student-housing companies, researched 6–7 online, toured 4, and compared them in a spreadsheet of notes, photos and pros and cons.
+- **Money spent?:** Rent only; no surprise fees. Chose student housing partly because "it was slightly a matter of cost."
+- **Biggest pain:** Being pushed to decide immediately, and only hearing from salespeople instead of residents.
+- **Referral?:** Not asked.
+- **Follow-up?:** Offered to send Jorim the names of the student-housing companies.
+- **Surprise:** Columbia didn't offer alternatives until his family asked ("No, we had to ask them"). There is a whole category of student-only buildings that many renters don't know about.
+- **Signal:** Yellow. A real need for resident perspectives and more honest neighborhood information, but low overall pain.
 
-## Participant snapshot
+## Interviewee background
 
-| Detail           | Answer                                                                                      |
-| ---------------- | ------------------------------------------------------------------------------------------- |
-| Interviewee      | Zaynah Khan                                                                                 |
-| Profile          | Domestic student; newly finished undergraduate; moved from Pennsylvania for graduate school |
-| Move-in date     | August 25                                                                                   |
-| Search window    | Casual browsing after acceptance; serious search from early August, about three weeks       |
-| Sites            | StreetEasy, Zillow, Apartments.com, Columbia off-campus housing site                        |
-| Broker           | Tried one; it did not help                                                                  |
-| Found apartment  | A realtor from an earlier listing showed another unit; she signed the next day              |
-| Guarantor        | Her father, who lives in Pennsylvania                                                       |
-| Listings tracked | 20 in the first three days in her father's Excel; likely 60 or more overall                 |
-| Time spent       | About eight hours daily, in two-hour blocks                                                 |
-| Surprise fees    | None                                                                                        |
+- Jackson Palmer is a Columbia School of General Studies student in a two-year film program.
+- Previously lived on Long Island and attended Wesleyan University in Middletown, Connecticut, for two years before transferring.
+- Was denied Columbia Housing, which Jackson understood to prioritize international students or people unable to commute.
 
-## Getting started
+## Housing search process
 
-Zaynah moved from Pennsylvania for graduate school and wanted to live near campus for convenience and a new experience.
+- Columbia did not proactively offer alternatives. Jackson and their parents asked, then received a list of backup student-housing companies.
+- The search took about 2-2.5 months over the summer, with uneven activity from week to week.
+- Looked at 6-7 listings online and narrowed them to four in-person tours.
+- Used a spreadsheet to track notes, photos, and pros and cons before a final comparison.
 
-1. After acceptance, she was advised not to search too early because relevant NYC listings appear close to a move date. She monitored StreetEasy and Zillow casually.
-2. Began the serious search in early August for an August 25 move-in.
-3. Some apartments were gone by the following day.
-4. Hired a broker to gain process and off-market help, but it made little difference.
-5. Contacted a realtor about an apartment already taken and asked about alternatives.
-6. The realtor showed her current apartment, advised quick action, and Zaynah signed the next day.
+## Housing found
 
-## Search process
+- Chose student-specific housing companies rather than the traditional rental market.
+- These companies own buildings leased exclusively to students, such as Outpost. They are not affiliated with a specific university, but serve students from Columbia, NYU, Fordham, and others.
+- Eligibility generally requires enrollment in a degree, internship, or study-abroad program, and an age in roughly the 21-35 range.
+- Jackson chose this route for cost, logistical ease, and a college-dorm-like experience. Traditional apartment hunting would have been the fallback.
 
-- A typical week was stressful and resembled homework: browse listings, call realtors, and wait. A missing reply often meant the apartment was already gone.
-- She spent about eight hours each day in two-hour blocks.
-- StreetEasy was easiest to navigate because a realtor's phone number was prominent. Zillow was good but harder to navigate. She also used Apartments.com and Columbia's off-campus site.
-- She trusted StreetEasy most due to ease of use, but saw many AI-generated listing images.
-- Her father's Excel sheet tracked 20 listings in three days, with an estimated 60 or more examined over the full search.
+## Decision criteria
 
-## Overwhelm and decision criteria
+- Proximity to Columbia to avoid late-night subway rides.
+- Amenities: kitchen, laundry, bathrooms, furniture, and cleanliness.
+- Overall vibe and modernity of the building.
+- Selected Outpost for location, newer appearance, and strong amenities.
 
-The search was overwhelming because several large decisions coincided before school began: apartment selection, furnishing and desk setup, laundry, learning the neighborhood, and school logistics without knowing where she would live.
+## Pain points
 
-Red flags that ruled out a listing:
+- Student housing companies pressured prospective residents to decide quickly, creating significant stress.
+- Some buildings were slow or unresponsive, making comparison difficult.
+- One building was near a methadone clinic, something not disclosed online. Jackson wanted better transparency about surrounding conditions.
+- Searching alongside preparation for school and work was hard to manage.
 
-- Missing or unclear feature information.
-- A realtor who did not reply properly.
-- Too many middlemen or realtors.
-- Small size.
-- A bad area.
+## Application and cost
 
-She wanted listings to show a realtor's preferred contact method, relevant rules and norms, and provide one central system so the search did not feel like reviewing hundreds of separate items. She judged neighborhoods through proximity to school and word of mouth, including the belief that housing is better below 116th Street.
+- Paperwork was primarily online and comparable to a standard lease; it was not extensive.
+- Credit, income, and guarantor did not appear to create issues.
+- Final costs were roughly as expected with no major surprise fees.
 
-## Competition and paperwork
+## Current building: Outpost
 
-- She lost apartments to faster applicants frequently.
-- Felt stuck 2-3 weeks before school when no promising leads received a timely answer.
-- The search clicked a couple of days before moving when the realtor showed her current unit.
-- Application documents: tax returns or other tax forms, guarantor form, driver's license, college acceptance letter, and income or accountant letter.
-- Her father, in Pennsylvania, was the guarantor. Zaynah was unsure whether rules generally required a US-based guarantor, a tri-state guarantor, or gave priority to a tri-state guarantor.
-- Her own credit and income did not cause problems.
+- Jackson generally enjoys living there and recommends it.
+- Ongoing frustrations include difficulty receiving maintenance help and washing-machine problems.
 
-## Costs and reflections
+## Key insight for a housing resource
 
-- Final costs had no surprises, and she did not feel scammed.
-- Stayed at her family's Pennsylvania home during the search, then one night with her brother in Brooklyn before moving in.
-- The hardest part was keeping up with realtors. She compared the constant, time-sensitive follow-up to scheduling coffee chats on LinkedIn.
-- Her advice: raise the budget slightly, consider a roommate, expect the worst, and respond to realtors quickly.
-- She recommends an Excel sheet to track every home. Although she described the process as extremely hard to streamline, she would use a tool that did so, especially an AI agent that searched and followed up with realtors.
+- The largest gap was no access to current residents while searching. Tours were led by salespeople and websites offered curated testimonials rather than genuine resident perspectives.
+- Current residents could provide insider knowledge about things Jackson only learned after moving in.
+- Top advice: start looking as early as possible; waiting until the last minute is not viable.
 
-## Pain points and opportunity signals
+## Key quotes
 
-| Pain point                         | Evidence                                                                            | Possible opportunity                        |
-| ---------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------- |
-| Listings vanish overnight          | Apartments were gone the next day; lost places often; signed the day after visiting | Instant alerts and one-tap outreach         |
-| Realtor follow-up takes effort     | About eight hours a day; silence usually meant the listing was gone                 | AI agent that follows up and tracks replies |
-| Too many listings                  | StreetEasy, Zillow, Apartments.com, Columbia site, broker; "700 things"             | One feed across listing sources             |
-| Unclear listings and contact rules | Missing features, varied email/phone preferences, unknown rules                     | Standardized listing and contact details    |
-| Fake photos                        | Saw many AI-generated images                                                        | Verified photos or an AI-image flag         |
-| Brokers add little                 | Off-market access did not make a difference                                         | Independent-search guidance                 |
-| Tracking                           | Father's Excel: 20 listings in three days                                           | Built-in listing and outreach tracker       |
-| Unknown neighborhoods              | Used school distance and word of mouth                                              | Neighborhood guides for students            |
-| Unclear guarantor rules            | Unsure about US-based versus tri-state requirements                                 | Show guarantor requirements per listing     |
+- "Well, I found out like through an email that it didn't happen to be Columbia Housing, or I think through the Columbia portal said I got denied."
+- "No, we had to ask them, but they said like it was kind of more like an ask us, we can help you."
+- "I think it was slightly a matter of cost."
+- "I kind of was just kind of looking to replicate the like College vibe."
+- "We like kind of did a spreadsheet about like things we liked about them, things we didn't like."
+- "It's honestly like kind of finding a college for life, right?"
+- "I didn't want to like have to take the subway at like 1 in the morning every single night."
+- "We visited one and they didn't specify that it was like right next to like a methadone clinic."
+- "So I wish they were just like a little bit more blunt about that."
+- "Certain places just had people that like were not quick at responding to us."
+- "I think the honestly hardest thing was kind of the Deadlines... They were like, if you want this place, you got to tell us like now."
+- "Just having that pressure just like didn't really help anything in that regard."
+- "Start looking now. Yeah, like now, now, now, now, now."
+- "Don't start looking like the week before you come here."
+- "I would have liked to have spoken more to like current residents because like every single time like we took a tour, there's all these with like someone who worked there or like a sales representative."
+- "They give us like quotes, but I always think it's better to hear these things like from the source."
+- "There's certain things about like my building that like I do not like that I wish I did know beforehand."
+- "It's hard to like get like people to help fix things."

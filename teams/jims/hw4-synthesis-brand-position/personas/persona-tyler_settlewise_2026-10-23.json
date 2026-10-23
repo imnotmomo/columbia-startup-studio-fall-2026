@@ -1,0 +1,14 @@
+{
+  "persona": "persona-marcus",
+  "artifact": "JIMS brand position (Oct 7, 2026)",
+  "verdict": "reject",
+  "score": 4,
+  "headline": "JIMS is pitched as a calm listing service that alerts you over weeks, but I have one weekend, so what I need is a fast read on the building I'm touring and on whether a fee is legal, and this doesn't promise either.",
+  "must_fix": [
+    "The core promise doesn't fit my situation. I don't need a watch that runs for weeks, I need to know if the building I'm standing in is a problem. Your own 'core insight' says the main pain is not knowing what a place is really like before you commit, but the positioning statement only promises listing alerts. Put a building-history read with sources (complaints, violations, landlord record) into the position.",
+    "Nothing tells me what's normal and legal in NYC: broker fees, deposits, 'super tips', paying months up front. Not knowing the local rules is how I get taken advantage of. 'Practical prompts' sounds like the generic checklist I can already get from Reddit.",
+    "Pricing has to be one-time or free for a one-time move. If 'keep watch, keep living' means a monthly charge, I'm out."
+  ],
+  "would_flip_me": "Add one line to the positioning statement promising a sourced building-history and 'is this fee legal?' check you can use on the spot while touring, and state that the price is one-time, not a subscription.",
+  "in_character_reaction": "I like the honesty here, but this is built for someone with weeks to wait, not someone flying up Friday and signing Monday. StreetEasy already sends me alerts. What I can't get is someone telling me in ten seconds whether this building has a heat problem, or whether a $750 'super tip' is a real thing here. Make that the promise, charge me once, and I'm in."
+}

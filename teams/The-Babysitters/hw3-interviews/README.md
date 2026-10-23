@@ -1,18 +1,18 @@
 # Homework 3 Interviews
 
-We interviewed ten people about Claude daycare. Mitchell interviewed Samay, Collin, and anonymous participant A. Josh interviewed anonymous participants B and C. I interviewed Mei, Hudson, Ethan, my mom, and my dad. Participants A, B, and C asked to remain anonymous.
+We interviewed ten people about Claude daycare. Mitchell interviewed Jamin, Shaya, and Yoni. Josh interviewed anonymous participants B and C. I interviewed Mei, Hudson, Ethan, my mom, and my dad. Participants B and C asked to remain anonymous.
 
 We organized the interview notes around our two selected concepts, Two-Minute Reunion and Allowance Guardrails. Two-Minute Reunion is a short recap that helps an owner catch up on what their agent did. Allowance Guardrails protects the usage an owner needs for other work by bounding what daycare can consume. We grouped conversations by their relevance to these concepts.
 
 | Direction | Interviews | Participants |
 |---|---|---|
-| Two-Minute Reunion | 1–5 | Samay, Collin, anonymous A, anonymous B, anonymous C |
+| Two-Minute Reunion | 1–5 | Jamin, Shaya, Yoni, anonymous B, anonymous C |
 | Allowance Guardrails | 6–10 | Mei, Hudson, Ethan, my mom, my dad |
 
 
 ## Interview script
 
-For Mei, I used these five questions:
+For Mei, Almog used these five questions:
 
 1. How does AI fit into your work and personal life?
 2. Walk me through the last time you used it. What worked well, and what got in the way?
@@ -23,116 +23,116 @@ Claude daycare would let your agent interact with other people’s agents while 
 4. What would you want it to do, and what boundaries would you set?
 5. What would make it worth trying for you, if anything?
 
-I followed up by asking what her agent could learn or create with a friend’s agent that she would actually use, and whether she would try an early version and talk with us afterward.
+Almog followed up by asking what her agent could learn or create with a friend’s agent that she would actually use, and whether she would try an early version and talk with us afterward.
+
+For interviews 1–3, Mitchell asked about current AI use and usage limits, introduced a bounded activity while the owner was away, and asked for reactions, possible value, and concerns. Shaya and Yoni were also asked what they would want to see afterward. The raw transcript excerpts appear in the appendix below. They capture most of each conversation; Mitchell also provided the recording details and additional responses about Two-Minute Reunion. The snapshots were completed within one hour of each interview.
 
 
 ## Two-Minute Reunion
 
-We looked at whether agent interactions could produce something worth reading without adding more work. Samay, Collin, and participant A discussed a short synopsis. Participants B and C were more interested in concrete uses such as debugging and studying. Their responses help us distinguish the value of the output from the length of the recap.
+We looked at whether agent interactions could produce something worth reading without adding more work. Interviews 1–3 also tested whether participants could name a reason for an agent to work while they were away. Participants B and C considered concrete uses such as debugging and studying.
 
-
-### Interview 1 Samay
+### Interview 1 Jamin
 
 **Interviewer:** Mitchell  
-**Date:** Thursday  
-**Location:** Butler Library.
+**Date:** October 22, 2026, 6:30 p.m.\
+**Location:** Mitchell's home
 
 #### Interview notes
 
-- I introduced daycare with a short synopsis of what the agent did, so the user would not have to read extensive logs.
-- He was initially skeptical but liked the short synopsis and said he would try it.
-- He was concerned about what the agent could do and whether personal information might leak through a public forum.
-- He was open to the idea but unsure of the practical use case.
-- He uses Gemini and ChatGPT.
+- Jamin uses AI for calendar management, essay ideas and editing, and research and document summaries at work with Copilot and Gemini. He prefers to write essays himself.
+- He does not use AI to code, does not worry about hitting a usage limit, and had used about 5% of his weekly allowance when he recently checked.
+- Mitchell pitched the idea in terms of spending extra tokens while a bot goes off on its own. Jamin questioned why he would want his AI active when he did not have a task for it.
+- Asked for a useful output, he could not think of one. He wondered whether the product was meant to train the AI or let it learn.
+- Jamin said he would like the Two-Minute Reunion idea, while remaining more concerned that he had no use for Claude Daycare itself.
+- No recent unmet need, privacy boundary, referral, or follow-up commitment was recorded.
 
 #### Interview snapshot
 
 | Field | Notes |
 |---|---|
-| Who | Samay |
-| Problem confirmed unprompted? | No specific past problem emerged before the pitch. |
-| Key quote | — |
-| Emotional intensity (1–10) | Initially skeptical, then open to trying it. |
-| Current solution | Gemini and ChatGPT. |
-| Money spent | — |
-| Solution reaction | Liked the short synopsis and agreed to try it. |
-| Biggest concern | Security, agent behavior, and personal information leaking in a public forum. |
-| Referral | — |
-| Follow-up | Agreed to try it. |
-| Surprise | I expected more reluctance and was surprised by his willingness to try. |
-| Signal | Green: positive reaction and willingness to test; the use case still needs work. |
+| Who | Jamin. |
+| Problem confirmed unprompted? | No specific past problem before the pitch. He reported low usage and no limit concern. |
+| Key quote | “When I need my AI to be beneficial to me, I use it intentionally.” |
+| Emotional intensity (1–10) | Not rated. |
+| Current solution | Uses AI directly for scheduling, writing support, research, and summaries. |
+| Money spent | Not discussed. |
+| Solution reaction | Liked the Two-Minute Reunion idea, but could not identify a reason to have his bot act while he was away. |
+| Biggest concern | Unclear personal benefit: “what does this do for me?” |
+| Referral | Not asked or recorded. |
+| Follow-up | Not asked or recorded. |
+| Surprise | He liked the recap concept while questioning the value of the underlying activity. |
+| Signal | Red for the concept as pitched to him; no use case or unmet need identified. |
 
-**Snapshot timing:** Later than one hour.
+**Snapshot timing:** Within one hour.
 
-
-### Interview 2 Collin
+### Interview 2 Shaya
 
 **Interviewer:** Mitchell  
-**Date:** Tuesday  
-**Location:** Outside Uris, near Chef Mike’s.
+**Date:** October 22, 2026, 5:30 p.m.\
+**Location:** Noco
 
 #### Interview notes
 
-- I introduced daycare with a short synopsis of what the agent did, so the user would not have to read extensive logs.
-- He was initially skeptical but liked the short synopsis and said he would try it.
-- He was concerned about what the agent could do and whether personal information might leak through a public forum.
-- He was open to the idea but unsure of the practical use case.
-- He uses free student access to Gemini and ChatGPT.
+- Shaya uses AI daily for scheduling, finding work leads, tracking homework, and other personal, academic, and work tasks.
+- Shaya hit a Claude Design usage limit while making a slideshow and upgraded Grokbot to a $100 plan the prior week after repeatedly hitting its limits. Shaya does not monitor usage: “I just use my platforms to the max, and then if I need more, I upgrade it.”
+- The Daycare idea sounded interesting, but Shaya did not want limited usage spent on random sandbox activities or to lose capacity needed later.
+- Shaya already runs Claude and GPT on local tasks overnight, can prompt GPT from a phone, and schedules Grokbot to find leads. Claude built a product overnight the prior week.
+- Shaya would want a high-level summary with the option to inspect individual actions. Reviewing an overnight session might take five to ten minutes, depending on task length and complexity.
+- The principal objection was overlap with current tools. No privacy boundary, referral, or follow-up commitment was recorded.
 
 #### Interview snapshot
 
 | Field | Notes |
 |---|---|
-| Who | Collin |
-| Problem confirmed unprompted? | No specific past problem emerged before the pitch. |
-| Key quote | — |
-| Emotional intensity (1–10) | Initially skeptical, then open to trying it. |
-| Current solution | Student Gemini and ChatGPT access. |
-| Money spent | Free student access. |
-| Solution reaction | Liked the short synopsis and agreed to try it. |
-| Biggest concern | Security, agent behavior, and personal information leaking in a public forum. |
-| Referral | — |
-| Follow-up | Agreed to try it. |
-| Surprise | I expected more reluctance and was surprised by his willingness to try. |
-| Signal | Green: positive reaction and willingness to test; the use case still needs work. |
+| Who | Shaya; daily user of scheduled and overnight AI agents. |
+| Problem confirmed unprompted? | Yes, usage limits prompted a plan upgrade. No unmet need for Daycare emerged; existing agents already work while Shaya is away. |
+| Key quote | “I feel like I already have a solution to that, which is Claude itself.” |
+| Emotional intensity (1–10) | Not rated; interested but apprehensive about allowance use. |
+| Current solution | Claude and GPT run locally overnight or from a phone; Grokbot runs scheduled tasks. |
+| Money spent | Upgraded Grokbot to a $100 plan the prior week; other plan costs not recorded. |
+| Solution reaction | “Sounds interesting,” but random sandbox activities would not be useful; building something might be, though Shaya already does that. |
+| Biggest concern | Spending scarce allowance without a distinct benefit, especially when usage may be needed later. |
+| Referral | Not asked or recorded. |
+| Follow-up | Not asked or recorded. |
+| Surprise | An experienced overnight-agent user viewed Daycare as duplicating existing tools but did want summary and action-level review. |
+| Signal | Red for adoption as pitched; a recap preference alone does not establish a reason to switch. |
 
-**Snapshot timing:** Later than one hour.
+**Snapshot timing:** Within one hour.
 
-
-### Interview 3 Anonymous participant A
+### Interview 3 Yoni
 
 **Interviewer:** Mitchell  
-**Date:** Monday  
-**Location:** Walking outside the gates at 116th Street.
+**Date:** October 22, 2026, 7:00 p.m.\
+**Location:** Mitchell's home
 
 #### Interview notes
 
-- I introduced daycare with a short synopsis of what the agent did, so the user would not have to read extensive logs.
-- He was initially skeptical but liked the short synopsis and said he would try it.
-- He was concerned about what the agent could do and whether personal information might leak through a public forum.
-- He was open to the idea but unsure of the practical use case.
-- He uses Claude Max for coding and worried that overnight daycare would consume usage he needs for work.
-- He described both a short usage window and a weekly allowance. He would probably use daycare only near the weekly reset.
+- Yoni mainly uses ChatGPT to upload pictures of problems, get explanations, and generate writing. Yoni pays $20 per month.
+- Yoni tried premium Claude but felt its tokens ran out too quickly. ChatGPT's premium image-upload capacity feels sufficient for current tasks. Yoni does not check usage regularly.
+- Yoni's AI use is mostly hands-on. Daycare sounded “cool,” and allocating a fixed amount of tokens to a generative task seemed appealing.
+- Yoni proposed giving an agent an essay task and the materials needed to complete it, then receiving a result ready to submit without further steering.
+- Yoni said he would not mind a Two-Minute Reunion but would also want a larger output from the session and seemed to want to know everything that happened.
+- Yoni raised no major concern if the task and token amount were bounded. No privacy boundary, referral, or follow-up commitment was recorded.
 
 #### Interview snapshot
 
 | Field | Notes |
 |---|---|
-| Who | Anonymous participant A |
-| Problem confirmed unprompted? | No specific past problem emerged before the pitch. |
-| Key quote | — |
-| Emotional intensity (1–10) | Initially skeptical, then open to trying it. |
-| Current solution | Claude Max for coding. |
-| Money spent | Claude Max; amount not recorded. |
-| Solution reaction | Liked the short synopsis and agreed to try it. |
-| Biggest concern | Information leaks and using up coding allowances, especially the weekly limit. |
-| Referral | — |
-| Follow-up | Agreed to try it. |
-| Surprise | I expected more reluctance and was surprised by his willingness to try. |
-| Signal | Green: positive reaction and willingness to test; the use case still needs work. |
+| Who | Yoni; ChatGPT subscriber who has tried Claude. |
+| Problem confirmed unprompted? | Claude's limits were frustrating, but no prior unmet need for autonomous task completion was established. |
+| Key quote | “If I give it a task and it does the task well, you know, and it utilizes the tokens that I'm letting it use in a way that's productive rather than just kind of moving around in circles.” |
+| Emotional intensity (1–10) | Not rated; called the idea “cool.” |
+| Current solution | Uses ChatGPT directly for explanations, image uploads, and writing. |
+| Money spent | $20 per month for ChatGPT; premium Claude cost not recorded. |
+| Solution reaction | Interested in bounded generative work if it produces a complete, satisfactory result. He was open to a short reunion but also wanted a fuller session output. |
+| Biggest concern | Productive use of the allotted tokens and output quality; no major safety concern expressed. |
+| Referral | Not asked or recorded. |
+| Follow-up | Not asked or recorded. |
+| Surprise | A mostly hands-on user could picture autonomous work and wanted both a quick recap and comprehensive output. |
+| Signal | Yellow: a concrete hypothetical use case, but no recurring need or commitment to try established. |
 
-**Snapshot timing:** Later than one hour.
-
+**Snapshot timing:** Within one hour.
 
 ### Interview 4 Anonymous participant B
 
@@ -167,7 +167,6 @@ We looked at whether agent interactions could produce something worth reading wi
 | Signal | Yellow: willing to try, but no specific prior problem established. |
 
 **Snapshot timing:** Within one hour.
-
 
 ### Interview 5 Anonymous participant C
 
@@ -206,9 +205,13 @@ We looked at whether agent interactions could produce something worth reading wi
 
 ### What we learned
 
-All five were willing to try it, but that interest did not give us a clear recurring use case. The short synopsis appealed to the first three, while the academic users wanted help with specific tasks. We need to show a useful output rather than assume that an agent conversation is valuable on its own.
+These five interviews did not establish one shared problem. Jamin could not see a reason to let an agent act between intentional uses. Shaya already runs agents overnight and on schedules, and saw Daycare as overlapping with those tools. Yoni imagined a bounded writing task, but no prior unmet need for it was established. Participants B and C imagined debugging and study uses with people they knew, yet neither described a specific past problem before the pitch.
 
-Security mattered to Samay, Collin, and participant A. Participant A also worried about consuming his weekly coding allowance. Participants B and C were more concerned with usefulness, context, and checking results than with privacy. We would test a private, bounded exchange on a concrete task, followed by a short recap.
+Shaya requested a high-level summary with access to individual actions. Jamin liked Two-Minute Reunion but doubted the underlying Daycare use case. Yoni was open to a short reunion and also wanted a fuller output. Participant B worried that a long recap would add reading. A useful task and credible output matter at least as much as recap length in these conversations.
+
+Usage limits affected Shaya and Yoni differently: Shaya upgraded a plan and wants to preserve spare capacity; Yoni preferred ChatGPT because Claude's premium allowance felt restrictive. Jamin reported low usage. These responses do not establish that Daycare guardrails would change adoption.
+
+A next test should give participants a concrete, bounded task and compare the result with what they already do using Claude, GPT, or ChatGPT. It should ask whether the added product changes their behavior.
 
 
 ## Allowance Guardrails
@@ -407,3 +410,24 @@ My dad’s token limits were the clearest allowance issue in this group, althoug
 
 I did not find a shared urgent problem across these five interviews. A useful next test would show the cost of a bounded daycare session and ask what work allowance the user wants to protect. I would also follow up with Mei and my mom about their willingness to try, compare the output with their current workflows, and look for repeat use.
 
+## Raw transcript excerpts for interviews 1–3
+
+These are the transcript excerpts Mitchell supplied. They contain most of each conversation, but omit some details he supplied separately above.
+
+### Interview 1 Jamin — raw transcript excerpt
+
+```text
+So, Jamin, what— how do you use AI tools typically in, like, work, school, or personal life? Yeah, of course. Hey, Mitchell, thanks for having me today. Firstly, I use AI tools to help me organize my calendar, which I will put in events into my AI, which will make a calendar for me and update my calendar. I'll use AI to help me with generating ideas for essays and editing my writing, but I prefer to not have AI do the actual writing for me. And in my professional life, we have access to Copilot and to Gemini, which I'll use to do some research and to go through information and summarize documents, and, yeah. Any other questions? Yeah, so thanks for covering a little bit about the actual tools that you use. Have you ever hit a usage limit, or do you typically worry about running out of usage? That's actually funny that you ask me that, because I don't really use AI to code at all. So I usually do not hit my usage limit, and I didn't even know how to check your usage limit until the other day. I was like, ‘Hmm, let me check my usage limit,’ and I was at, like, 5% for the week. So, yeah, I don't really hit my usage limit. Okay, nice. So I told you a little bit about this idea that we have, where you can use your extra tokens, and you can assign tokens to let your bot kind of go off and do whatever. So what's your, like, initial reaction to that? Do you have any concerns? Do you think it would be something you might use, or is it— just let me know. Yeah, I mean, I don't— personally, my main concern would be: what does this do for me? Like, why do I care what my bot is doing while I'm not using it? Like, typically when I use my bot, when I use my Claude, it's because I need it for something, and when I don't use it, I don't need it. So I guess my question is: why should I care what my Claude account is doing while I'm not using it? Okay. So, Okay. Is there anything that you could think of personally that, like, you would want that you could see being beneficial for you, like allowing your bot to go off on its own, and, like, if it could return to you something? Do you have any, like, thoughts about what would be something that would be beneficial to you in any way? Honestly, no. Like, I just— maybe I'm misinterpreting the question, but I feel like when I need my AI to be beneficial to me, I use it intentionally. This seems more like a, what, like we're training the AI? Or it's learning new things? Like, I don't... Yeah, I think it's kind of up in the air right now. So it could be recreational, it could be to train it to improve skills or learn new things, or it could be beneficial to you in some way, but Okay, I think that's good.
+```
+
+### Interview 2 Shaya — raw transcript excerpt
+
+```text
+Hi, Shaya. Thanks for taking this interview. So, yeah, I use AI tools every single day in my life. For my personal and academic and work life, I use Grokbot a lot. I have different bots that do everything for me, from creating my schedule to, like, finding leads at work to, you know, keeping me on track with my homework assignments. So do you typically— do you ever run into your usage limit? Yeah, I do actually. I just ran into my usage limit today using Claude Design for a slideshow. But typically I don't. Grokbot is the only one that I constantly run into usage limits. In fact, I had to upgrade to the hundred-dollar plan last week because I kept running into these usage limits. So what do you typically do to track your usage limits, or do you do something to keep it within bounds? No. I just use my platforms to the max, and then if I need more, I upgrade it. So we're exploring a product where Claude Code Agent could do a bounded activity sandbox while its owner is away. Using a limited amount of the owner's allowance, the owner can set limits, then review what happened afterward. What's your initial reaction to this? Sounds interesting. I don't know if I'd want my agents going off and doing random sandbox activities, given, like, that I don't have too much usage. And even if I do, I'd kind of want to plan for, you know, a case where I need extra usage. So it wouldn't really be a use case for me. Could you think of anything that might be useful or appealing about this? Maybe if somehow the agent can go and build something for me on my free time, but I already do that with having my Claude or GPT run overnight locally on my laptop, and I can even prompt it from my phone. I can go out and get lunch while GPT's doing things. So I feel like it already exists. Yeah, you already covered that you use it often to do tasks while you're away, and it's typically coding and project-based. After, yeah, if you, so say that you were to use Claude Daycare, what would you actually want to know about what happened while your bot was away? A high-level summary of all the things that it's done, but I also want the option to look at the individual smaller actions. Okay, so yeah, on average, how much time do you think you'd typically spend checking out what it did? Depends how long it was at daycare, but probably like five to ten minutes if it was, like, overnight at daycare. If it was just on there for a couple hours, it also depends on the complexity of the task. There's a lot of variables, Mitchell. Cool. All right. Yeah. Oh, what else is there? I guess I finish up with one last thing. What is kind of stopping— you seem a little bit apprehensive. What's kind of stopping you, if you could just summarize, from trying Claude Daycare? I feel like I already have a solution to that, which is Claude itself. It lets you run your agent overnight and lets it make decisions for you. So I actually had my Claude work overnight to build a product last week, and it happens with, you know, GPT can do that. And in fact, Grokbot can run on a schedule too and do its own things whenever. Like, I have them all running on schedules. I have a Grokbot that's just, like, finding leads constantly, right? So it's kind of the same concept. Wait.
+```
+
+### Interview 3 Yoni — raw transcript excerpt
+
+```text
+So, hi Yoni. Basically, how do you use AI tools in your work, school, or personal life? Mainly, I'll, like, upload pictures of problems that I need to do. Either that or I'll have it kind of explain the process of a question that I didn't really understand. And then, in addition to that, probably just generative purposes, so writing and stuff like that. Okay, so which tools do you typically use? Like which AI, I guess, platform? Just mainly ChatGPT. I tried out Claude. I just didn't like the way that their tokens worked. I felt like I ran out too quickly, even when I was on the premium. And then I feel like ChatGPT with the premium, I have, like, as many image uploads as I need and stuff, so it feels a lot better. So you pay for them, the subscriptions? Yes. How much a month do you spend on them? 20. Cool. Have you ever—I guess just to reiterate—have you ever hit a usage limit or worried about running out? Yeah, but with Chat, I find that at least the stuff that I'm doing is not gonna make me run out. And do you typically, like, check your usage regularly? No. Or you kind of just use— Not at all, yeah. Cool. Okay, so we have this idea for a startup, and to not give too much detail, but I'll say it's a product called Claude Daycare, where a Claude code agent can do a bounded activity, like in a sandbox, while its owner's away, using a limited amount of the owner's allowance. The owner can—you can set limits and then review what happened afterwards. So there would be, like—there'd be, like, set, like, certain activities you could have it do, and I won't explain exactly what they are. So what's your initial reaction to that, like very broad idea? I mean, I think it's a cool idea. The thing for me is that my application of AI is very much, like, hands-on, as opposed to, you know, letting it, like, read my emails and stuff like that. But, I mean, I think, like, for something, like, generative, that would definitely help, you know, give it kind of, like, a rationed amount of the tokens and tell it to do something. Yeah, I think that would work. So what specifically would be appealing about that? Like, I won't put words in your mouth. Honestly, I think if I give it a task and it does the task well, you know, and it utilizes the tokens that I'm letting it use in a way that's productive rather than just kind of moving around in circles. You know, like if I would be using it to, like, write something, right? Like I tell it, write this essay, and I give it all of the various things that it would need for that. If it could create me that essay to the fullest capacity, so I don't really have to do much beyond what it does for me. And then any concerns you would have about letting doing this, where you send your bot and let it run on its own while you're not there? I mean, honestly not really. I feel like if you're rationing it in any case and you're telling it, like, only use this amount of tokens for however long it's gonna take for you to do this thing, I think if you're willing to give up those tokens, like, yeah. And if it doesn't work well, I don't think there's any real concerns. And then I guess to finish it off, like, say theoretically you did, like, use Claude Daycare. What would you want, like, when you get back on and you check in with your bot, like, what would you expect? What would be, like, a good output for you? I mean, to keep running with, like, the idea of an essay, I think if I come back and it's created me an essay that I feel is ready to be submitted, as opposed to something that I need to sit and, you know, kind of be that daycare person for and just kind of, you know, push it in the right direction. If it creates me something that I'm happy to submit just right off the bat, I think, yeah, that would be a successful go, in my opinion. Awesome, thanks. Yeah, of course.
+```

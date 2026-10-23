@@ -1,0 +1,28 @@
+{
+  "persona": "persona-tyler",
+  "artifact": "SettleWise brand position (Oct 8, 2026)",
+  "verdict": "approve_with_conditions",
+  "score": 5,
+  "headline": "The tone is honest and low-pressure, which I like, but the whole thing is a comparison tool for people who are freaking out, and the one thing I actually wanted (what people who live there say about the building and the block) isn't part of the promise.",
+  "unclear": [
+    "Where the building info comes from: it says 'renter-added notes' and 'public records', but are those notes from people who actually live there, or just my own tour notes?",
+    "Is it free? Price isn't mentioned anywhere, so I'd be guessing.",
+    "How much do I have to set up? 'Importing details from a listing link' and 'adding personal tour notes' sounds like it could turn into my family spreadsheet again, just in an app.",
+    "Does it work for student-housing buildings like the ones on Columbia's backup list, or only regular StreetEasy apartments?",
+    "Does 'information that matters' include the neighborhood and the block (like a clinic next door), or only the unit and the building?"
+  ],
+  "must_fix": [
+    "Make current and past residents' honest takes on the building part of the core promise, not just one Reddit quote in the research section. Right now the only stated sources are listing claims, my own notes and public records, and none of those would have told me the laundry is broken or maintenance is slow.",
+    "Say it covers the block and the neighborhood, not just the apartment. That's the stuff nobody tells you on a tour and nobody admits online."
+  ],
+  "nice_to_have": [
+    "Lead with something for people who aren't in crisis too. 'Apartment hunting, made less overwhelming' made me think 'is this for people who are actually stressed? Because I kind of figured it out.'",
+    "State plainly that it's free for renters, or at least that there's no paywall on building info.",
+    "Promise a quick path, like getting something useful about a building in under two minutes without an account.",
+    "Give residents a super easy way to give back, like answering three quick questions about their own building. I'd do that.",
+    "I like the 'Avoid: this building is bad based only on complaints' rule. Keep resident notes dated with some context so they don't turn into a pile of scary stories."
+  ],
+  "in_character_reaction": "Honestly the vibe is fine. It's calm, it doesn't scream at me, and it's not pretending to be some AI genius, so points for that. But it's mostly about organizing apartments I already found, and I kind of already did that with my mom and a spreadsheet... what I wish I'd had is someone who lives there telling me the laundry's broken half the time. If that's in here, it should be the headline, not buried in a Reddit quote.",
+  "would_flip_me": "Add one line to the positioning and the brand promise saying SettleWise shows short, dated notes from people who live or lived in the building about the building and the block (and say it's free to read). That moves me to approve.",
+  "would_pay": "n/a"
+}

@@ -1,0 +1,25 @@
+{
+  "persona": "persona-megan",
+  "artifact": "SettleWise brand position (Oct 8, 2026)",
+  "verdict": "approve_with_conditions",
+  "score": 6,
+  "headline": "The 'decide what deserves a tour' moment and the spreadsheet relief are exactly my problem, but the brand is built around calm and stress relief, and says nothing about speed or fake listings, which are what actually cost me apartments.",
+  "unclear": [
+    "Is this supposed to replace my dad's spreadsheet, or sit next to it? The doc only says it 'aims to reduce that work' and still needs to test whether it beats a spreadsheet.",
+    "How do listings get in? If I have to type each one in by hand, that's literally more work than the spreadsheet. 'Importing details from a listing link' is only listed as an idea to test.",
+    "Does 'highlighting missing or conflicting details' cover AI or staged photos, wrong bedroom counts, and units that are already rented, or just things like 'laundry isn't mentioned'?"
+  ],
+  "must_fix": [
+    "Make never being slower than the next applicant a core principle, not an open question. 'Relief over pressure' and 'calm' read like a tool I'd sit with on a Sunday, and in this market that's how I lose the place. You can still avoid claiming 'cut your search time in half' and promise it won't slow me down: verdict first, details on tap, works from my phone in seconds.",
+    "Name misleading listings as part of the problem you solve: AI or wide-angle photos, a 'bedroom' that barely fits a bed, already-gone units. Right now the brand is about organizing options I already trust. My problem is that half my options are noise and I can't tell which ones are worth one of my 12 tour slots."
+  ],
+  "nice_to_have": [
+    "Say plainly that it replaces the spreadsheet instead of just 'reducing manual upkeep'. The 'avoid just another spreadsheet' line is right, so go further.",
+    "Add a canonical phrase about tours, like 'Know which ones are worth the trip.' That's the line that would sell me.",
+    "The building-records angle (HPD, 311) is nice as a tap-for-details layer, but don't let it turn into a long report per listing.",
+    "The tone example about laundry is fine, but I'd rather see one about a listing whose photos don't match the floor plan."
+  ],
+  "in_character_reaction": "Ok, 'deciding what deserves a tour' is literally my whole life right now, so yes, I'm interested. But the whole thing keeps saying calm, relief, take your time, and I don't have time. The good place is gone in a day. If this is one more thing to fill in while someone else just applies, I'm out. If it tells me in ten seconds which of my 30 are duds and replaces Dad's spreadsheet, I'm in.",
+  "would_flip_me": "Add one value saying it never slows you down (a quick verdict first, details on tap, works from your phone) and name fake or misleading listings as something it helps flag, without claiming it verifies them.",
+  "would_pay": "n/a"
+}

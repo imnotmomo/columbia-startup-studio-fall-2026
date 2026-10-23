@@ -1,0 +1,53 @@
+# Persona Re-test: SettleWise Brand Position
+
+**Date run:** October 23, 2026  
+**Artifact judged:** `brand_position.md` (SettleWise, Oct 8, 2026)  
+**Compared against:** the Oct 8 run on the JIMS listing-alert draft (`brand_position_tested_2026-10-07.md` and `persona-*_brand-position.json`)
+
+## Method
+
+We ran all five persona agents again with the same persona definitions, the same verdict JSON format and the same scoring bands. The only change to the persona files is the product name: "JIMS" became "SettleWise". Each persona ran as its own agent, separately from the others, and saw only its persona file and `brand_position.md`. None of them saw the earlier verdicts. Full outputs are in `persona-*_settlewise_2026-10-23.json`.
+
+## Scores: before and after
+
+| Persona | JIMS alerts (Oct 8) | SettleWise (Oct 23) | Change |
+| --- | --- | --- | --- |
+| Layla: international, signing from abroad | 5, approve with conditions | 6, approve with conditions | +1 |
+| Megan: out-of-state, two weekends to tour | 6, approve with conditions | 6, approve with conditions | 0 |
+| Hana: short-term sublet, scammed before | 6, approve with conditions | 6, approve with conditions | 0 |
+| Tyler: near-local, low stress | 4, **reject** | 5, approve with conditions | +1, no longer rejects |
+| Marcus: job mover, one weekend | 4, **reject** | 6, approve with conditions | +2, no longer rejects |
+| **Average** | **5.0** (2 rejects) | **5.8** (0 rejects) | **+0.8** |
+
+## What changed
+
+1. **The main gap from the first round is closed.** On Oct 8, all five personas pointed out that the core insight ("not knowing what a place is really like until after committing") didn't match a positioning that only promised listing alerts. Nobody raised that mismatch this time. SettleWise's "decision support" positioning, its source labels (listing claim, renter note, public record, unverified) and the line "a complaint is a lead, not proof" answered it. Layla called the source labeling "the most reassuring line in the document."
+
+2. **The urgency conflict is gone.** On Oct 8, Megan, Hana and Layla all flagged "Before the listing disappears" as pressure that contradicted our own values. SettleWise dropped that phrase and made "Relief over pressure" a value, and nobody flagged manufactured urgency this time. Hana said the brand "doesn't push me to hurry."
+
+3. **The two rejects moved up.** Marcus rejected "keep watch" because it sounded like a subscription to someone who signs in 72 hours. He now trusts the sourced, dated building information. Tyler had called JIMS "StreetEasy alerts but nicer." He now says "the vibe is fine," but still wants resident voices (see 6).
+
+4. **What still resonates:** the honesty rules. Every persona again praised the ban on "verified," "scam-free" and "fully vetted," and the habit of separating what is known from what still needs checking. This is the most consistent positive signal across both rounds.
+
+5. **New concern, Megan:** calm can read as slow. SettleWise's "calm, relief" tone made her worry the tool won't keep up with her market: "The good place is gone in a day." Fixing the urgency problem for Hana and Layla created a speed concern for Megan. The two personas want opposite things, a tension already noted in the README.
+
+6. **Still unresolved: who the brand names.** Every persona's must-fix is about being named explicitly in the brand:
+   - **Layla:** the renter who can't tour and signs from abroad. She also wants true monthly cost and whether a listing accepts third-party guarantors.
+   - **Hana:** sublets and 4–12 month stays.
+   - **Tyler:** current residents' notes about the building and the block.
+   - **Marcus:** what's normal and legal for fees and deposits, and the renter who has to decide within days.
+   - **Megan:** misleading and AI-generated listings.
+   
+   The positioning now describes the right problem, but readers still can't tell whether their specific situation is covered.
+
+7. **Price and documents are still missing.** Hana, Tyler and Marcus asked about price in the first round, and all three asked again. Hana, Marcus and Layla also asked whether SettleWise needs their ID, SSN or documents. Neither question is answered in the brand position.
+
+## What this tells us to do next
+
+- Keep the SettleWise direction and the honesty rules. They raised the average score and removed both rejects.
+- Add one line to Target Identity naming the people we serve: remote signers, subletters, and people deciding within days. The personas suggest this would move several of them to approve.
+- Add a value or promise about money and documents: what we charge and when, and that we don't need an SSN or ID just to compare options.
+- Decide whether resident notes and fee-norm guidance are part of the brand or only product ideas to test, and say so in the document.
+- Balance "calm" with "never slower than the next applicant" so speed-driven renters like Megan don't read the brand as slow.
+
+*These are synthetic personas based on our interviews and Reddit research. Their reactions help us find weak spots in the copy. They are not evidence that real renters would use or pay for SettleWise.*

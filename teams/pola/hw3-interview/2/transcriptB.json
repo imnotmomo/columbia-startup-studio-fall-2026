@@ -1,0 +1,678 @@
+[
+  {
+    "timestamp": [
+      0,
+      4
+    ],
+    "text": " Hi, I'm Harry, a student from Columbia University.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high",
+    "speaker_note": "All speaker labels are inferred from transcript text, not verified against audio. The interviewer identifies himself as Harry; the user identifies the participant as Steve, a sophomore electrical engineering major at Boston University (BU)."
+  },
+  {
+    "timestamp": [
+      4,
+      10
+    ],
+    "text": " And we are doing a class project on keeping in touch with people you met on the campus.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      10,
+      15
+    ],
+    "text": " So can you spare about five minutes and can you take some notes while interviewing you",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      15,
+      16
+    ],
+    "text": " some questions?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      16,
+      18
+    ],
+    "text": " Yeah definitely.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      18,
+      26.64
+    ],
+    "text": " Okay, so, just think about someone you recently met through a class club or event who isn't the really",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      26.64,
+      28.04
+    ],
+    "text": " a close friend.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      28.04,
+      32.4
+    ],
+    "text": " So have you still been keeping in touch?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      32.4,
+      33.4
+    ],
+    "text": " Yeah.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      33.4,
+      49
+    ],
+    "text": " So the guy was potentially from my dorm. doing that last semester. We, I think we are still keeping in touch through,",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      49.8,
+      53.12
+    ],
+    "text": " like sending, using software's like,",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      53.12,
+      56.6
+    ],
+    "text": " I'm messages to like communicate.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      56.6,
+      60.32
+    ],
+    "text": " And sometimes we have some special activities",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      60.32,
+      63.6
+    ],
+    "text": " such as go out and have lunch, have dinner,",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      63.6,
+      65.44
+    ],
+    "text": " or even go out and have a trip.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      65.44,
+      72.72
+    ],
+    "text": " Well, nice to hear that. Keep being a friendship like that is the happy stuff. But just",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      72.72,
+      78.36
+    ],
+    "text": " what do you think might be the hardest part if anything about keeping in touch with this",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      78.36,
+      80.8
+    ],
+    "text": " kind of people?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      80.8,
+      90
+    ],
+    "text": " So since we are not such sort of close friend, we don't share that much like personal interests.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      90,
+      101
+    ],
+    "text": " So you basically don't have any other topics, except go out, have a meal or stuff like that.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      101,
+      109.14
+    ],
+    "text": " Yeah, understand. So if that's a case, can you tell me about the last",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      109.14,
+      114.72
+    ],
+    "text": " time you wanted to reach out to him and especially at that time what did you do",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      114.72,
+      125
+    ],
+    "text": " and what happened? So I just send him a message back in whether he wants to like go out have something like hog on.",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " and what happened?",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Steve (interviewee)",
+        "text": " So I just send him a message back in whether he wants to like go out have something like hog on.",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range, with no exact turn times available."
+  },
+  {
+    "timestamp": [
+      125.48,
+      128.56
+    ],
+    "text": " And he said that, okay, and we just went out.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      130.08,
+      130.96
+    ],
+    "text": " - Okay, yeah,",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      130.96,
+      133.28
+    ],
+    "text": " hop out is a, I think it's a really good place",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      133.28,
+      136.52
+    ],
+    "text": " for this kind of casual socializing.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      137.4,
+      138.24
+    ],
+    "text": " - Yeah.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      138.24,
+      142.4
+    ],
+    "text": " - And so can you tell me the exact reason",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      142.4,
+      146.1
+    ],
+    "text": " why it's this kind of small activity is better to you?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      146.1,
+      149.14
+    ],
+    "text": " And how often has it happened in the past year?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      149.14,
+      156.5
+    ],
+    "text": " I mean, so you have at least you have to have one meal every day, right?",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      156.5,
+      158
+    ],
+    "text": " Yeah, of course.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      158,
+      162.1
+    ],
+    "text": " So yeah, so that's the most, like this one is very important.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      162.1,
+      166.4
+    ],
+    "text": " So how often is it's like weekly I think.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      166.4,
+      171.52
+    ],
+    "text": " Okay. It's like you, since you need to go out for a",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      171.52,
+      177.44
+    ],
+    "text": " dinner or lunch and you just find maybe someone you know to be",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      177.44,
+      182.08
+    ],
+    "text": " staying with you for more or me less loneliness, right?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      182.08,
+      190.32
+    ],
+    "text": " During that period exactly okay so can you just tell me",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " During that period",
+        "speaker_confidence": "medium"
+      },
+      {
+        "speaker": "Steve (interviewee)",
+        "text": " exactly",
+        "speaker_confidence": "medium"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " okay so can you just tell me",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range, with no exact turn times available."
+  },
+  {
+    "timestamp": [
+      190.32,
+      199.76
+    ],
+    "text": " what have you tried to keep in touch and how well does your method works so just as",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " what have you tried to keep in touch and how well does your method works",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Steve (interviewee)",
+        "text": " so just as",
+        "speaker_confidence": "medium"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range, with no exact turn times available."
+  },
+  {
+    "timestamp": [
+      199.76,
+      209.2
+    ],
+    "text": " what I previously this friend we just sent each other messages about dinner, lunch, and other small activities.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      209.2,
+      216.8
+    ],
+    "text": " And I think it actually works well because we're still in touch.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      218.48,
+      224.56
+    ],
+    "text": " Okay, so based on this, it means that you basically do not spend money on keeping touch,",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      224.56,
+      225
+    ],
+    "text": " right? Because we all have this money on keeping touch, right?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      225,
+      229
+    ],
+    "text": " Because we all have this kind of instant messaging, right?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      229,
+      230
+    ],
+    "text": " Yeah.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      230,
+      231
+    ],
+    "text": " Okay.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      231,
+      237
+    ],
+    "text": " So the whole thing is we're exploring a tool that's resurfaces a photo from a collection",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      237,
+      241
+    ],
+    "text": " you approve and suggests on a acquaintance to send it to.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      241,
+      246.72
+    ],
+    "text": " You choose your, I mean, you choose the recipient and approve every send on this kind of,",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      246.72,
+      253.6
+    ],
+    "text": " I mean, platform or apps. So if you see this kind of thing, what is your first reaction towards it?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      253.6,
+      265.92
+    ],
+    "text": " What is your biggest concern? So my first reaction will be something like, like how does it work?",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " What is your biggest concern?",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Steve (interviewee)",
+        "text": " So my first reaction will be something like, like how does it work?",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range, with no exact turn times available."
+  },
+  {
+    "timestamp": [
+      268.88,
+      272.32
+    ],
+    "text": " Like since um",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      277.76,
+      279.2
+    ],
+    "text": " I think it basically recommends you on some random people right?",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      282.32,
+      283.6
+    ],
+    "text": " Yeah, I think so. Yeah, so um",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " Yeah, I think so.",
+        "speaker_confidence": "medium"
+      },
+      {
+        "speaker": "Steve (interviewee)",
+        "text": " Yeah, so um",
+        "speaker_confidence": "medium"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range, with no exact turn times available. Brief acknowledgments have uncertain attribution without audio."
+  },
+  {
+    "timestamp": [
+      290.08,
+      290.96
+    ],
+    "text": " There's where my biggest concern arises like, how do I ensure that these",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      300.24,
+      305
+    ],
+    "text": " people hurt actually the thing that the specific person is safe or unsafe to me? Because I have no idea about their backgrounds. Yeah, that's true. Yeah.",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Steve (interviewee)",
+        "text": " people hurt actually the thing that the specific person is safe or unsafe to me? Because I have no idea about their backgrounds.",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " Yeah, that's true.",
+        "speaker_confidence": "medium"
+      },
+      {
+        "speaker": "Steve (interviewee)",
+        "text": " Yeah.",
+        "speaker_confidence": "low"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range, with no exact turn times available. Brief acknowledgments have uncertain attribution without audio."
+  },
+  {
+    "timestamp": [
+      305,
+      311
+    ],
+    "text": " So the most biggest concern is more like the safety and privacy stuff.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      311,
+      312
+    ],
+    "text": " Right.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      312,
+      313
+    ],
+    "text": " Yep.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      313,
+      318
+    ],
+    "text": " Okay, so I think that's quite a lot of information shared with each other.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      318,
+      319
+    ],
+    "text": " Really, thank you for that.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      319,
+      327.28
+    ],
+    "text": " And can you just like introduce this to someone with a similar experience or maybe connect contact",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      327.28,
+      333.12
+    ],
+    "text": " you for a brief follow-up? Okay, thank you so much.",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " you for a brief follow-up?",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Steve (interviewee)",
+        "text": " Okay,",
+        "speaker_confidence": "low"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " thank you so much.",
+        "speaker_confidence": "medium"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range, with no exact turn times available. Brief acknowledgments have uncertain attribution without audio. \"Okay,\" may instead be part of the interviewer's closing; it does not establish a participant commitment."
+  }
+]

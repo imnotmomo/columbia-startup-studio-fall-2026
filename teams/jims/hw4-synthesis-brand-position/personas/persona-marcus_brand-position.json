@@ -1,0 +1,27 @@
+{
+  "persona": "persona-hana",
+  "artifact": "SettleWise brand position (Oct 8, 2026)",
+  "verdict": "approve_with_conditions",
+  "score": 6,
+  "headline": "The honesty rules and the no-pressure stance are the most trustworthy safety posture I've seen from a housing tool, but the brand never says it is for sublets and short stays, never says it won't charge me or ask for my documents, and treats a fake poster as outside what 'still needs checking'.",
+  "unclear": [
+    "Is a 4-8 month sublet or room share in scope, or is this only for people comparing 12-month apartment leases? Every example (StreetEasy, brokers, guarantors, HPD records) sounds like full leases.",
+    "Will this cost me anything, and when? The Sean quote about help 'that wasn't just trying to charge me money' is in the research, but the brand makes no commitment about fees.",
+    "Does SettleWise ever ask for my ID, passport, or documents, and who would hold them?",
+    "When it 'spots what's missing', does that include signs the poster isn't real, such as being asked for a deposit before a viewing, or only building and listing details like laundry?",
+    "Can I share a comparison with my mom or a friend before I commit? Nothing mentions a second opinion, even though Yung Yi's story ends with relying on her trusted network."
+  ],
+  "must_fix": [
+    "Name sublets and short stays as part of the audience, and say the brand won't treat subletters like 12-month leaseholders. If it's only for full leases, it isn't for me.",
+    "Add a brand-level commitment: no fees, subscriptions, or 'priority' upsells before a renter has seen and confirmed a place, and no ID or document uploads to compare options. Without that line I assume it's coming later."
+  ],
+  "nice_to_have": [
+    "List 'confirm the poster and the room are real before any money moves' and 'see the room or get a live video tour' among the things SettleWise prompts renters to check. This fits your own 'what still needs checking' language.",
+    "Make 'share this comparison with someone you trust' part of the brand language. A second opinion is the real safety feature for people like me.",
+    "Keep the ban on 'verified', 'scam-free' and 'fully vetted'. That ban is the reason I'm reading this at all. If you ever do check something, show who checked it and when.",
+    "Tie the 'Relief over pressure' value to the moment money or documents change hands. That's when it should slow me down."
+  ],
+  "in_character_reaction": "Honestly, I relaxed a little when I saw 'scam-free' and 'fully vetted' on the banned list. The site that scammed me used words like that. And I like that it labels where each piece of information comes from and doesn't push me to hurry. But I read it twice and it never says the word 'sublet', and it never says it won't charge me or ask for my passport. So right now I can't tell if this is for someone like me or for people signing a 12-month lease with a broker.",
+  "would_flip_me": "One line in Target Identity saying sublets and 4-12 month stays are in scope, plus one line in Brand Values saying SettleWise never charges or asks for ID before you've seen and confirmed a place.",
+  "would_pay": "n/a"
+}

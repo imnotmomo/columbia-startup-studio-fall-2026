@@ -1,0 +1,684 @@
+[
+  {
+    "timestamp": [
+      6,
+      7
+    ],
+    "text": " Hello, I am Harry.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      7,
+      10
+    ],
+    "text": " We are the students from Columbia University.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      10,
+      13.8
+    ],
+    "text": " We are doing a class project on getting between the classes.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      13.8,
+      19.2
+    ],
+    "text": " So can you spare the five or two ten minutes for you to ask you a few questions?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      19.2,
+      22
+    ],
+    "text": " And is it okay for me to take notes?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      22,
+      24
+    ],
+    "text": " Ah, definitely you can.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      24,
+      27.28
+    ],
+    "text": " Okay, so you just answered the reality of yours",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      27.28,
+      29.96
+    ],
+    "text": " because the honest answers were hard a lot,",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      29.96,
+      34.16
+    ],
+    "text": " even if the problem isn't really a problem for you, all right?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      34.16,
+      35
+    ],
+    "text": " - All right.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      35,
+      36.8
+    ],
+    "text": " - Okay, so can you please tell me",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      36.8,
+      39.76
+    ],
+    "text": " what was your most recent trip between the classes",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      39.76,
+      41.36
+    ],
+    "text": " like in the campus?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      43.96,
+      50
+    ],
+    "text": " - My most recent trip between buildings of my campus is from.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      50,
+      55
+    ],
+    "text": " You know, B.U. has actually have several buildings so on.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      55,
+      57
+    ],
+    "text": " Comment wealth avenue.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      57,
+      64
+    ],
+    "text": " So I actually went from 685 Commonwealth Avenue to 590 Commonwealth Avenue,",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      64,
+      65
+    ],
+    "text": " which is like",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      65,
+      68
+    ],
+    "text": " have to cross the street and that's it.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      68,
+      71
+    ],
+    "text": " Oh well your canvas is really big right?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      71,
+      72
+    ],
+    "text": " Yeah.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      72,
+      78
+    ],
+    "text": " Okay so on what what is the hardest part if anything about getting to the next class you think?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      78,
+      85.5
+    ],
+    "text": " So the hardest part is that I,",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      89.38,
+      91.5
+    ],
+    "text": " so you know, between two classes, there's like, an hour break.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      92.42,
+      96.34
+    ],
+    "text": " So for me, it's like getting back to my apartment,",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      96.34,
+      97.98
+    ],
+    "text": " which is too far away from me.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      99.78,
+      103.58
+    ],
+    "text": " But I do not have anywhere to take a break,",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      103.58,
+      105.6
+    ],
+    "text": " I don't wanna relax myself between these classes.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      107.6,
+      116.16
+    ],
+    "text": " Okay, so you mean that the time interval from one class to another is relatively not too short,",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      116.16,
+      121.52
+    ],
+    "text": " but it's not still not long enough to allow you to get back to your house and take a break, right?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      122.24,
+      124.48
+    ],
+    "text": " Exactly, it's a little bit awkward for me.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      126.16,
+      131.28
+    ],
+    "text": " Okay, so in that case, could you walk me through the last time where you for example how did",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      131.28,
+      137.92
+    ],
+    "text": " you decide when to leave for the next class and what exactly happened",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      137.92,
+      147
+    ],
+    "text": " um for me it's like I personally will leave 30 minutes before the class began.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      147,
+      166.48
+    ],
+    "text": " So, um, and last time it's actually pretty successful, because there's no traffic can or anything like delays of the public transportation, like the green line, the shuttle and stuff like that. Okay I see it's a little true to spare quite a",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Steve (interviewee)",
+        "text": " So, um, and last time it's actually pretty successful, because there's no traffic can or anything like delays of the public transportation, like the green line, the shuttle and stuff like that.",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " Okay I see it's a little true to spare quite a",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Multiple inferred speaker turns share the original timestamp; exact turn times are unavailable from the text."
+  },
+  {
+    "timestamp": [
+      166.48,
+      171.04
+    ],
+    "text": " lot of time to depart beforehand to ensure that you don't",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      171.04,
+      178.32
+    ],
+    "text": " late for classes right? Yep. Okay so um",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " late for classes right?",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Steve (interviewee)",
+        "text": " Yep.",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " Okay so um",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Multiple inferred speaker turns share the original timestamp; exact turn times are unavailable from the text."
+  },
+  {
+    "timestamp": [
+      192.84,
+      200.36
+    ],
+    "text": " So it seems like you just spend more time when commuting from A to B to the part earlier. And do you think you're spending some money to deal with this commuting problems?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      200.36,
+      208.72
+    ],
+    "text": " If you have so much technically Sometimes yes around ten bucks because",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " If you have so much technically",
+        "speaker_confidence": "medium"
+      },
+      {
+        "speaker": "Steve (interviewee)",
+        "text": " Sometimes yes around ten bucks because",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Multiple inferred speaker turns share the original timestamp; exact turn times are unavailable from the text. The garbled opening is inferred to continue the interviewer's spending question."
+  },
+  {
+    "timestamp": [
+      210.16,
+      214.96
+    ],
+    "text": " After they go over taxi if I don't want to like take those public transportation",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      216.88,
+      222.4
+    ],
+    "text": " It's like in in case that taking the transportation will cause you to be late like the",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      222.88,
+      226.48
+    ],
+    "text": " Subway's are run time is not good enough, right?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      228.32,
+      236.48
+    ],
+    "text": " I know, I know, I was a experienced such kind of thing. Okay, so because the reason I'm asking you",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      236.48,
+      242.64
+    ],
+    "text": " all these is because we are exploring a phone or watch assistant that uses your schedule and",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      242.64,
+      245.88
+    ],
+    "text": " current location to estimate the trip to your classroom",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      245.88,
+      247.68
+    ],
+    "text": " and suggest when to leave.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      247.68,
+      251.64
+    ],
+    "text": " So what is your first reaction to where this kind of,",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      251.64,
+      253
+    ],
+    "text": " let's say, idea?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      253,
+      255.44
+    ],
+    "text": " And what is your biggest concerns on this?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      256.6,
+      260.2
+    ],
+    "text": " - So this one is a very good idea,",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      260.2,
+      262.76
+    ],
+    "text": " a good, very good function to include on a phone.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      264.36,
+      271.28
+    ],
+    "text": " So the biggest concern is that sometimes, you know, especially when there's the tram on the ground,",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      271.28,
+      274.72
+    ],
+    "text": " like they have a lot of crossroads.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      276,
+      282
+    ],
+    "text": " So sometimes there might be traffic dams or even more like something like accidents,",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      283.6,
+      288.64
+    ],
+    "text": " causing delays that cannot be like unpredictable.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      288.64,
+      289.68
+    ],
+    "text": " Yeah, that's true.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      289.68,
+      290.4
+    ],
+    "text": " Exactly.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      290.4,
+      295.76
+    ],
+    "text": " Yeah, so any any kinds of the software cannot guarantee a 100% accuracy towards",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      295.76,
+      297.68
+    ],
+    "text": " especially this kind of uncertainty.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      298.4,
+      303.36
+    ],
+    "text": " Yep, so how do you calculate that sort of uncertainty?",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      303.36,
+      305.06
+    ],
+    "text": " So how much delay in my cost?",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      305.06,
+      312.48
+    ],
+    "text": " Okay, so basically our this project is still in the early state of idea processing",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      312.48,
+      318.72
+    ],
+    "text": " and we're thinking about to gather more data to record the let's say a pattern of",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      318.72,
+      327.08
+    ],
+    "text": " the people flow to provide like a margin time about three to 10 minutes according to the",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      327.08,
+      338.04
+    ],
+    "text": " highest data. Yeah. Okay, sweet. Okay, so can you introduce someone else with a similar",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " highest data.",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Steve (interviewee)",
+        "text": " Yeah.",
+        "speaker_confidence": "low"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " Okay, sweet. Okay, so can you introduce someone else with a similar",
+        "speaker_confidence": "medium"
+      }
+    ],
+    "speaker_note": "Multiple inferred speaker turns share the original timestamp; exact turn times are unavailable from the text. The attribution of \"Yeah.\" and \"Okay, sweet.\" is uncertain without audio."
+  },
+  {
+    "timestamp": [
+      338.04,
+      346
+    ],
+    "text": " experience or can I keep you contact for a following brief follow-up. Yeah definitely, to read this a lot.",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " experience or can I keep you contact for a following brief follow-up.",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Steve (interviewee)",
+        "text": " Yeah definitely, to read this a lot.",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Multiple inferred speaker turns share the original timestamp; exact turn times are unavailable from the text."
+  },
+  {
+    "timestamp": [
+      346,
+      351
+    ],
+    "text": " Oh okay. Thank you so much. That's really a valuable answer for you.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      351,
+      353
+    ],
+    "text": " Yeah, no friends.",
+    "speaker": "Steve (interviewee)",
+    "speaker_confidence": "medium"
+  }
+]

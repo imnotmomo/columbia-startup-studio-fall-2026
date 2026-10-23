@@ -1,0 +1,736 @@
+[
+  {
+    "timestamp": [
+      0,
+      6
+    ],
+    "text": " So hi, I'm Harry. I'm doing a Columbia class project on getting on between the classes.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high",
+    "speaker_note": "Speaker labels are inferred from text, not verified against audio. The user identifies Shuya as a Columbia computer science graduate student, ML track, and Harry as the interviewer."
+  },
+  {
+    "timestamp": [
+      6,
+      12
+    ],
+    "text": " So can you spare about five minutes and if it's okay for me to record this whole process?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      12,
+      14
+    ],
+    "text": " Yes.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      14,
+      24
+    ],
+    "text": " Okay, so please answer the most possible honest answer for us because that really helps us with elaborating the whole problem.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      24,
+      26.4
+    ],
+    "text": " Sounds good. Okay, so",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " Sounds good.",
+        "speaker_confidence": "medium"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " Okay, so",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available."
+  },
+  {
+    "timestamp": [
+      27.2,
+      32.24
+    ],
+    "text": " Countless tell me what was your most recent trip between the classes like",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      34.64,
+      38
+    ],
+    "text": " My trip between classes. Yeah, like how",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " My trip between classes.",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " Yeah, like how",
+        "speaker_confidence": "medium"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available."
+  },
+  {
+    "timestamp": [
+      40.32,
+      45
+    ],
+    "text": " Like how the like the actual physical walking between classes.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      45,
+      47
+    ],
+    "text": " Yeah, I meant that.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      47,
+      57
+    ],
+    "text": " Okay, so those three two ones was today I walked around my user interface class,",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      57,
+      67
+    ],
+    "text": " which ended at 655 to my AI class, which ended with star stats, seven to seven 10.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      67,
+      69
+    ],
+    "text": " Well, so I walked.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      69,
+      74
+    ],
+    "text": " It didn't take me like five minutes to walk there for like three minutes.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      74,
+      75
+    ],
+    "text": " Okay.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      75,
+      79
+    ],
+    "text": " So it's quite close to classes between each other.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      79,
+      81
+    ],
+    "text": " Yeah, it's a big, they're right next to you.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      81,
+      83
+    ],
+    "text": " They're really close to each other.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      83,
+      84
+    ],
+    "text": " Okay.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      84,
+      89
+    ],
+    "text": " So based on your, I mean, recent experiences when commuting between these classes what do you",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      89,
+      95.38
+    ],
+    "text": " think is the hardest part if anything about getting to our next class? The hardest",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " think is the hardest part if anything about getting to our next class?",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " The hardest",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available."
+  },
+  {
+    "timestamp": [
+      95.38,
+      112
+    ],
+    "text": " part? Yeah. I guess just because even though I didn't really have this problem yet, just because of classes and start pretty close to each other,",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " part?",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " Yeah.",
+        "speaker_confidence": "medium"
+      },
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " I guess just because even though I didn't really have this problem yet, just because of classes and start pretty close to each other,",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available."
+  },
+  {
+    "timestamp": [
+      114,
+      120
+    ],
+    "text": " I guess one of the main reasons is just being on time with other classes.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      134,
+      154
+    ],
+    "text": " Okay, so have you ever experienced like the previous class, the instructor ended late so that you have to be quicker on commuting to the next one? There was a moment where class ended like, five months late and even then, just because the classes are like very nice to see further. I was able to get to the other class on time, but I guess that was the case when I was a little bit more worried.",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " Okay, so have you ever experienced like the previous class, the instructor ended late so that you have to be quicker on commuting to the next one?",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " There was a moment where class ended like, five months late and even then, just because the classes are like very nice to see further. I was able to get to the other class on time, but I guess that was the case when I was a little bit more worried.",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available."
+  },
+  {
+    "timestamp": [
+      154,
+      166.92
+    ],
+    "text": " But overall it was turned out to be fine just because of the distance wasn't that bad? OK, so what do you think that really",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " But overall it was turned out to be fine just because of the distance wasn't that bad?",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " OK, so what do you think that really",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available."
+  },
+  {
+    "timestamp": [
+      166.92,
+      169.6
+    ],
+    "text": " makes your routine commuting work?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      169.6,
+      172.44
+    ],
+    "text": " And do you think there's anything else",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      172.44,
+      174.96
+    ],
+    "text": " except the one example I provided that",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      174.96,
+      177.76
+    ],
+    "text": " makes the schedule go wrong ever?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      181,
+      183.64
+    ],
+    "text": " Sorry, what's the first part of the question?",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      183.64,
+      190
+    ],
+    "text": " I mean, what do you think exactly is making your routine schedule works?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      190,
+      195
+    ],
+    "text": " And when, when did it last go wrong, somehow?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      195,
+      207
+    ],
+    "text": " Uh, so, uh, swim around and... So, that's what we're on. Or another possibility, I guess.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "medium",
+    "speaker_note": "Garbled fragment during clarification; attribution inferred from surrounding turns and uncertain without audio."
+  },
+  {
+    "timestamp": [
+      207,
+      209
+    ],
+    "text": " You can go on.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      209,
+      214
+    ],
+    "text": " Let's stay.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "low",
+    "speaker_note": "Garbled fragment during clarification; attribution inferred from surrounding turns and uncertain without audio."
+  },
+  {
+    "timestamp": [
+      214,
+      217
+    ],
+    "text": " Okay, let me take it out this per moment.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      217,
+      219
+    ],
+    "text": " Okay, no worries.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      219,
+      221
+    ],
+    "text": " We'll speak over on.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "low",
+    "speaker_note": "Garbled fragment during clarification; attribution inferred from surrounding turns and uncertain without audio."
+  },
+  {
+    "timestamp": [
+      222,
+      228.1
+    ],
+    "text": " What's the go wrong?",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "low",
+    "speaker_note": "Garbled fragment during clarification; attribution inferred from surrounding turns and uncertain without audio."
+  },
+  {
+    "timestamp": [
+      230.1,
+      230.86
+    ],
+    "text": " So specifically about like",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      232.86,
+      233.58
+    ],
+    "text": " like traveling like",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      237.7,
+      251.8
+    ],
+    "text": " Traveling between classes mean like walking over on in that time Since just because of the, like all my classes are really close to each other, I'm nearly",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " Traveling between classes mean like walking over on in that time",
+        "speaker_confidence": "medium"
+      },
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " Since just because of the, like all my classes are really close to each other, I'm nearly",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available. Attribution around the garbled clarification is uncertain without audio."
+  },
+  {
+    "timestamp": [
+      251.8,
+      259.6
+    ],
+    "text": " never really encountered like a problem between traveling, between classes except like",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      259.6,
+      264
+    ],
+    "text": " the only time that maybe I just got one was like the first week where I didn't really",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      264,
+      272.64
+    ],
+    "text": " know the specific location of the classes. Yeah that's true. I was all afraid to be kind. Yeah but now that I",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " know the specific location of the classes.",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " Yeah that's true. I was all afraid to be kind.",
+        "speaker_confidence": "medium"
+      },
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " Yeah but now that I",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available. Attribution around the garbled clarification is uncertain without audio."
+  },
+  {
+    "timestamp": [
+      272.64,
+      283.04
+    ],
+    "text": " know like the locations of each of the classes I I really encountered a time when um when um",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      287,
+      294
+    ],
+    "text": " I'm like I had trouble competing in classes. Okay, I see. So let me explain in the whole context of all these. It's basically",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " I'm like I had trouble competing in classes.",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " Okay, I see. So let me explain in the whole context of all these. It's basically",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available."
+  },
+  {
+    "timestamp": [
+      294,
+      299
+    ],
+    "text": " we are exploring a phone or a hand watch assistant app that uses your class",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      299,
+      303
+    ],
+    "text": " schedule and the current location to estimate the trip to classroom and",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      303,
+      307.36
+    ],
+    "text": " suggest when to leave. So we have here this kind of project.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      307.36,
+      313.56
+    ],
+    "text": " What do you think is your first reaction and what is your concern towards it?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      313.56,
+      317.52
+    ],
+    "text": " So sorry that it like helps you.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      317.52,
+      321.48
+    ],
+    "text": " Sorry, clearly, be that overtime.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      321.48,
+      325.44
+    ],
+    "text": " Is like a app that reads your schedule and location and",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      326.24,
+      332.08
+    ],
+    "text": " estimate the trip time from your previous classroom to a next classroom or maybe not just",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      332.08,
+      339.12
+    ],
+    "text": " classroom just maybe also count as an event something and the target element is to suggest you",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      339.68,
+      344.96
+    ],
+    "text": " exactly when to leave for the next one. I think that's a good idea for",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " exactly when to leave for the next one.",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " I think that's a good idea for",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available."
+  },
+  {
+    "timestamp": [
+      342,
+      343.52
+    ],
+    "text": " to be when to leave for the next one.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "medium",
+    "speaker_note": "Overlapping source segment repeats part of the explanation. Original text, timestamps, and order are retained."
+  },
+  {
+    "timestamp": [
+      352.08,
+      353.6
+    ],
+    "text": " I think that's a good idea for people that have classes that are back to back, especially",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      359.52,
+      360.88
+    ],
+    "text": " in their classes or I guess somewhat just in a part.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      369.56,
+      379.64
+    ],
+    "text": " No. And I think it's good to for those people that to know like estimated um estimated time I think it's good for them because they can't uh leave at the",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      379.64,
+      390.8
+    ],
+    "text": " correct correct times yeah that's true especially I think this is a problem when the two events are quite far away from each other.",
+    "speaker": "mixed",
+    "speaker_turns": [
+      {
+        "speaker": "Shuya (interviewee)",
+        "text": " correct correct times",
+        "speaker_confidence": "high"
+      },
+      {
+        "speaker": "Harry (interviewer)",
+        "text": " yeah that's true especially I think this is a problem when the two events are quite far away from each other.",
+        "speaker_confidence": "high"
+      }
+    ],
+    "speaker_note": "Speaker changes inferred from context; turns share the original timestamp range. Exact turn times are not available."
+  },
+  {
+    "timestamp": [
+      390.8,
+      394.6
+    ],
+    "text": " For example, like from learner to mud, something like this.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      394.6,
+      395.6
+    ],
+    "text": " Right?",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high"
+  },
+  {
+    "timestamp": [
+      395.6,
+      397
+    ],
+    "text": " Yeah, yes.",
+    "speaker": "Shuya (interviewee)",
+    "speaker_confidence": "medium"
+  },
+  {
+    "timestamp": [
+      397,
+      null
+    ],
+    "text": " Okay, so I think that's all the part from this first, either real part.",
+    "speaker": "Harry (interviewer)",
+    "speaker_confidence": "high",
+    "speaker_note": "The original segment has no end timestamp; null is preserved."
+  }
+]
