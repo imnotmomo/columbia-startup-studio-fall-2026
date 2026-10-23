@@ -23,23 +23,34 @@ At **12:28 PM Eastern on October 23**, all eight public routes returned HTTP 200
 | Privacy | https://nyc.imfinethanku.me/privacy/ | Yes |
 | Public finder | https://nyc.imfinethanku.me/find/ | Yes |
 
-## Signup and key event
+## Signup event
 
 After `/api/waitlist` confirms a successful submission, the browser records a one-time confirmation and navigates to `/thank-you/`. That page emits **`generate_lead`** and consumes the confirmation. Opening thank-you directly or reloading a consumed confirmation does not create another lead. Failed submissions keep the form error and do not emit the event.
 
-The authenticated Analytics **Key events** view was checked again on October 23: **`generate_lead` is starred**, and its stream is **Restroom Ready Web**. Its existing setting was retained.
+`generate_lead` is configured as the signup key event in the existing Web stream.
 
-![generate_lead marked as a key event](evidence/key-event.jpg)
+## Seven-day traffic overview
 
-## Realtime check
+The team's Google Analytics Home screenshots show **October 16–22, 2026**:
 
-We opened one homepage visit with lowercase labels:
+| Metric | Reported value |
+| --- | ---: |
+| Active users | 401 |
+| Views | 494 |
+| Event count | 1.5K |
+| Key events | 4 |
 
-`utm_source=verification&utm_medium=qa&utm_campaign=hw6_analytics_check&utm_content=homepage`
+![Google Analytics seven-day overview, October 16–22](evidence/analytics-overview.png)
 
-The authenticated Realtime report then displayed **one homepage view**, **one `page_view`**, and **one `session_start`**. This proves receipt of a current website visit. It is QA traffic and must be excluded from acquisition results. No production signup or confirmation email was created for this check.
+The second screenshot shows the country, page and traffic-channel breakdown for the same seven-day range. Its page table includes 362 homepage views, 36 finder views and 24 sample-demo views.
 
-![Current homepage view and events in Realtime](evidence/realtime.jpg)
+![Google Analytics country, page and channel breakdown](evidence/analytics-breakdown.png)
+
+These are property-wide Analytics figures. They can include team and QA activity and do not establish campaign-attributed traffic, unique waitlist emails or restroom use. In particular, **four key events do not establish four distinct signups**.
+
+## Setup check
+
+A separate October 23 Realtime check confirmed receipt of one homepage `page_view` and one `session_start` after a visit labeled `utm_source=verification&utm_medium=qa&utm_campaign=hw6_analytics_check&utm_content=homepage`. That visit is QA traffic, not acquisition. No production signup or confirmation email was created for the check.
 
 ## Attribution and validation
 
@@ -47,6 +58,6 @@ Our campaign convention uses lowercase UTM keys and values. The semester plan de
 
 All **six Analytics tests and five waitlist tests passed** on October 23. Isolated checks cover successful submission, invalid/failing requests, direct thank-you visits and reload deduplication without creating public conversions.
 
-`generate_lead` counts completed successful submission flows, including an already-subscribed address. Distinct stored email records are needed to count unique signups. This verification does not claim campaign results, customer adoption or a genuine restroom visit.
+`generate_lead` counts completed successful submission flows, including an already-subscribed address. Distinct stored email records are needed to count unique signups. The seven-day report is shown separately from campaign attribution and unique-signup counts.
 
 Source: [CourseWorks HW6, Parts 1–2 and folder layout](https://courseworks2.columbia.edu/courses/258234/assignments/1745725), read October 23. The assignment requires one team PR containing `demand_strategy.md`; Analytics Academy 101/102 are explicitly optional. The combined PR includes the required demand-plan file and this supporting verification record.

@@ -137,13 +137,14 @@ For weekly reporting, show website campaign sessions, successful signup events, 
 
 ## 8. Analytics on every public page
 
-We use the existing GA4 property **nye-restroom** and **Restroom Ready Web** stream, measurement ID **`G-YJG2N05KY9`**. We reused the existing account/property rather than creating another one. The [October 23 Analytics verification](analytics.md) includes fresh authenticated screenshots and the current public-page checks.
+We use the existing GA4 property **nye-restroom** and **Restroom Ready Web** stream, measurement ID **`G-YJG2N05KY9`**. We reused the existing account/property rather than creating another one. The [October 23 Analytics verification](analytics.md) includes the team's seven-day report screenshots and the October 23 public-page and Realtime checks.
 
 | Check | October 23 result | Evidence and limits |
 | --- | --- | --- |
 | Tag on every public page | Homepage, conditions, entry and route, dated reports, thank-you, sample demo, privacy and public finder all returned HTTP 200 and referenced the configured Analytics bundle. | Eight public routes checked at 12:28 PM Eastern. Tag presence alone is distinct from collection receipt. |
-| Signup key event | `generate_lead` is starred in the existing property's Key events view, with Restroom Ready Web as its stream. | [Authenticated setting](evidence/key-event.jpg). The existing setting was retained. |
-| Realtime collection | The report displayed one homepage view, one `page_view` and one `session_start` after a labeled QA visit. | [Current Realtime evidence](evidence/realtime.jpg). Exclude this verification traffic from demand results. |
+| Signup key event | `generate_lead` remains configured in Restroom Ready Web. | The existing setting and successful-submission guard are retained. |
+| Realtime collection | A labeled QA visit produced one homepage `page_view` and one `session_start`. | [Setup check](analytics.md#setup-check); exclude verification traffic from demand results. |
+| Seven-day report | October 16–22 shows 401 active users, 494 views, 1.5K events and 4 key events. | [Overview](evidence/analytics-overview.png) and [breakdown](evidence/analytics-breakdown.png). Property-wide totals may include team/QA; four key events are not four distinct signups. |
 | Successful-signup guard | Six Analytics tests and five waitlist tests passed, including direct thank-you visits and reload deduplication. | Isolated tests; no production signup or email was generated. |
 | Campaign results | No verified campaign-session total or distinct-signup baseline is supplied here. | Future owners record actual results; planning targets are not results. |
 
