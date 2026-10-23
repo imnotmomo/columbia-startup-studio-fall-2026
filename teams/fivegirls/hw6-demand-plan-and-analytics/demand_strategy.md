@@ -1,18 +1,24 @@
 # HW6 — Demand Plan and Analytics
 
-**Team:** Five Girls  
-**Product:** Restroom Ready  
-**Plan written:** October 22, 2026  
-**Planning period:** October 23–December 18, 2026, America/New_York  
+**Team:** Five Girls
+
+**Product:** Restroom Ready
+
+**Plan written:** October 22, 2026
+
+**Updated:** October 23, 2026
+
+**Planning period:** October 23–December 18, 2026, America/New_York
+
 **Website:** https://nyc.imfinethanku.me/
 
 ## 1. Objective, audience, and current stage
 
 Our semester goal is **100 distinct, non-team email signups by December 18**. We do not yet have a verified signup baseline, so the acquisition plan below conservatively budgets for 100 additional signups. We will record the baseline before reporting progress. A signup means a distinct email successfully stored through our website, not a pageview, a repeated form submission, a TestFlight installation, or a restroom visit.
 
-Restroom Ready helps people judge a restroom before walking there. Our first audience is Columbia/Barnard students exploring unfamiliar NYC neighborhoods, especially when carrying bags or working around entry and route constraints. NYC residents and visitors are a secondary audience. Our three messages are usable conditions, entry rules and the route inside, and the source and age of a report.
+Restroom Ready helps people judge a restroom before walking there. Our audience is NYC residents and visitors choosing a restroom in an unfamiliar neighborhood, especially when entry rules, stairs or the route inside affect their choice. Students are one reachable community within that audience. Our three messages are usable conditions, entry rules and the route inside, and the source and age of a report.
 
-The iOS app is currently available for testing through **TestFlight**, according to the team's current product status. It is **not yet on the App Store**. We will refine it from testing before submitting it for review; approval and release dates are not promised. The website remains the public acquisition and email-signup destination. Interested subscribers can separately opt into TestFlight testing once the team has a usable invitation and onboarding instructions. We will never describe the web demo's simulated actions as evidence of iOS functionality or real restroom use.
+The iOS app is **1.0 (7), Testing in the existing 4995 and Team internal TestFlight groups**. There is no public TestFlight download link, and it is **not yet on the App Store**. We will refine it from testing before submitting it for review; approval and release dates are not promised. The website remains the public acquisition and email-signup destination. Interested subscribers can separately opt into TestFlight testing once the team has a usable invitation and onboarding instructions. We will never describe the web demo's simulated actions as evidence of iOS functionality or real restroom use.
 
 This is an execution plan, not a report of completed outreach. Future assignments, traffic estimates, and content dates below are proposed working allocations. The weekly owners will confirm handoffs at the start of each week and update the plan when availability or results change. No partner placements, emails, or future posts are represented as already arranged or published.
 
@@ -53,7 +59,7 @@ Reach below means **estimated views of one accepted placement**, not the communi
 
 Our HW4 research used **r/AskNYC** and **r/nyc**. HW5 records say submissions were filtered and promotion/research restrictions affected posting. We will use those communities to understand questions, not assume they are available acquisition channels. We will not count removed posts as live placements or plan around unapproved promotion.
 
-These per-placement estimates expose a substantial capacity gap: roughly 23 X posts, eight community posts, and seven blogs would yield only about **50–473 visits** at the ranges above, excluding overlap and any additional discovery. Even eight accepted larger placements at the upper bound would add only 800 visits. Reaching 10,000 therefore requires substantially broader accepted distribution, repeat organic discovery, or many more productive placements than the current cadence supplies. That reach is unproven. By November 5, owners will record which named outlets accepted distribution and rebuild the forecast from measured click-through. If that evidence does not support the target, we will report the shortfall rather than invent reach or increase the assumed signup conversion above 1%.
+These per-placement estimates expose a substantial capacity gap: 15 X posts before Demo Day (seven normal weeks with two posts and one reduced week with one), eight community posts, and seven blogs would yield only about **46–425 visits** at the ranges above, excluding overlap and any additional discovery. Even eight accepted larger placements at the upper bound would add only 800 visits. Reaching 10,000 therefore requires substantially broader accepted distribution, repeat organic discovery, or many more productive placements than the current cadence supplies. That reach is unproven. By November 5, owners will record which named outlets accepted distribution and rebuild the forecast from measured click-through. If that evidence does not support the target, we will report the shortfall rather than invent reach or increase the assumed signup conversion above 1%.
 
 ## 4. Social schedule, publication log, and tagged links
 
@@ -131,32 +137,25 @@ For weekly reporting, show website campaign sessions, successful signup events, 
 
 ## 8. Analytics on every public page
 
-We will reuse the existing GA4 setup, measurement ID **`G-YJG2N05KY9`**, rather than create a second account/property. The [HW5 README](../hw5-pages-demand-mvp/README.md#analytics-and-learning) and [implementation record](https://github.com/imnotmomo/nyc-restroom/blob/main/docs/features/google-analytics.md) document the account/property, Web stream, deployed tag, `generate_lead` key event, and an October 16 Realtime check. Those are historical implementation records, not a fresh authenticated GA inspection or customer-acquisition results for HW6.
+We use the existing GA4 property **nye-restroom** and **Restroom Ready Web** stream, measurement ID **`G-YJG2N05KY9`**. We reused the existing account/property rather than creating another one. The [October 23 Analytics verification](analytics.md) includes fresh authenticated screenshots and the current public-page checks.
 
-Required public routes: [homepage](https://nyc.imfinethanku.me/), [conditions](https://nyc.imfinethanku.me/conditions/), [entry and route](https://nyc.imfinethanku.me/entry-route/), [dated reports](https://nyc.imfinethanku.me/dated-reports/), and [thank-you](https://nyc.imfinethanku.me/thank-you/). HW5 also documents coverage of demo/privacy and the finder after access. Marketing-page examples do not establish current venue availability.
-
-The documented conversion flow is: submit the signup form, receive a successful server response, navigate to thank-you, then emit **`generate_lead`**. Opening thank-you directly or reloading it must not create a conversion. Preserve the successful-submission guard. Do not add an unconditional URL-based event that would double-count or treat a direct page visit as a signup.
-
-Before new distribution, Zheli and that week's second owner should record a dated verification row below:
-
-1. Open each required public route and check that the correct tag loads, including client-side navigation.
-2. Open a tagged `verification / qa` link and confirm a pageview in GA Realtime. Label it QA and exclude it from demand reporting.
-3. Check the existing `generate_lead` key-event setting. Use the existing isolated test procedure for success/failure/direct-visit/reload behavior; if a live signup is needed, use a consenting team tester and exclude that record from acquisition results.
-4. Confirm lowercase UTMs survive navigation and that no email, account ID, passcode, private note, search text, or precise coordinates enter Analytics.
-5. Record check date, route coverage, observed event/key-event state, and a redacted evidence reference. Standard reports may lag 24–48 hours. A code tag alone does not prove receipt in Realtime.
-
-| Check | Evidence available at submission drafting | Current limit |
+| Check | October 23 result | Evidence and limits |
 | --- | --- | --- |
-| Existing deployment and signup event | HW5 README and linked October 16 engineering record | Historical team documentation; no new end-to-end verification asserted. |
-| Current public tag presence, Oct 22 | HTTP 200 for homepage, three benefit pages, and thank-you. All five reference `/_next/static/chunks/2at0s6sx75wsw.js`, containing `G-YJG2N05KY9`, the Google tag loader, and `generate_lead`. | Read-only source inspection; no JavaScript execution, collection receipt, signup, or current GA setting verified. |
-| Fresh authenticated Realtime and key-event check | Not supplied for HW6 | Requires access to the existing GA property. |
-| Campaign sessions and distinct signup baseline | Not supplied | Do not replace missing results with zero or planning targets. |
+| Tag on every public page | Homepage, conditions, entry and route, dated reports, thank-you, sample demo, privacy and public finder all returned HTTP 200 and referenced the configured Analytics bundle. | Eight public routes checked at 12:28 PM Eastern. Tag presence alone is distinct from collection receipt. |
+| Signup key event | `generate_lead` is starred in the existing property's Key events view, with Restroom Ready Web as its stream. | [Authenticated setting](evidence/key-event.jpg). The existing setting was retained. |
+| Realtime collection | The report displayed one homepage view, one `page_view` and one `session_start` after a labeled QA visit. | [Current Realtime evidence](evidence/realtime.jpg). Exclude this verification traffic from demand results. |
+| Successful-signup guard | Six Analytics tests and five waitlist tests passed, including direct thank-you visits and reload deduplication. | Isolated tests; no production signup or email was generated. |
+| Campaign results | No verified campaign-session total or distinct-signup baseline is supplied here. | Future owners record actual results; planning targets are not results. |
 
-The October 22 source audit fetched the five page documents and their eight shared JavaScript files without executing them or submitting forms. It confirms published tracking code, not successful collection. The remaining Analytics checks are execution tasks, not claims that Part 2 has newly passed. Google Analytics on the web pages does not automatically measure TestFlight app behavior. Native-app analytics requires separate implementation and is outside this document's verified scope.
+The conversion flow is: submit the signup form, receive a successful server response, navigate to thank-you, then emit **`generate_lead`** once for that confirmation. Direct visits and reloads without an unused success confirmation do not create a lead. The event counts completed successful submissions, including an already-subscribed address; distinct stored email records determine unique signups.
+
+The QA visit used lowercase `utm_source=verification`, `utm_medium=qa`, `utm_campaign=hw6_analytics_check` and `utm_content=homepage`. New outreach follows the lowercase semester convention above; old HW5 links keep their original attribution. Emails, account IDs, passcodes, notes, search text and precise coordinates stay out of Analytics. The Facebook permalink and actual historical destination remain unverified rather than being retroactively attributed.
+
+Weekly owners repeat the page/key-event checks before distribution and record actual publication links and outcomes. Standard reports can lag 24–48 hours. These checks establish the website's current tag and receipt; native iPhone Analytics is not enabled, and a web visit does not prove installation or restroom use.
 
 ## 9. Sources and submission
 
-- [CourseWorks HW6: Demand Plan and Analytics](https://courseworks2.columbia.edu/courses/258234/assignments/1745725), Parts 1–2 and Folder layout, read October 22. One team PR is the submission; nothing additional is submitted on CourseWorks. Analytics Academy is optional for this homework.
+- [CourseWorks HW6: Demand Plan and Analytics](https://courseworks2.columbia.edu/courses/258234/assignments/1745725), Parts 1–2 and Folder layout, rechecked October 23. One team PR is the submission; nothing additional is submitted on CourseWorks. Analytics Academy is optional for this homework.
 - [Class 6 slides](https://github.com/kenxle/columbia-startup-studio-fall-2026/blob/main/classes/20261016_c6w6_fri_build-kickoff/class-6-slides.pdf), slides 3–6 for the remaining semester through December 18 and slide 45 for blog types.
 - [HW5 demand strategy](../hw5-pages-demand-mvp/demand_strategy.md) for existing distribution, historical post links, and known publication gaps. Its earlier seven-day target is not a measured result or the conversion assumption for HW6.
 - [HW4 research summary](../hw4-synthesis-brand-position/reddit_research/research_summary.md) for community research context. Interviews and persona exercises are not counts of actual product users.
